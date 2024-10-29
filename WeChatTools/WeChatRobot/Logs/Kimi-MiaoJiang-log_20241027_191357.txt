@@ -1,0 +1,109 @@
+2024-10-27 19:13:58,031 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-27 19:13:58,034 - WeChatRobotLogger - INFO - 初始化计费器。当前消费：0
+2024-10-27 19:14:09,435 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-27 19:14:09,435 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-27 19:14:10,343 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-27 19:14:15,373 - WeChatRobotLogger - INFO - 启用监听对象：占思翰
+2024-10-27 19:14:20,422 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-27 19:14:24,245 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-27 19:14:24,245 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】13:27
+2024-10-27 19:14:25,949 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】19:14
+2024-10-27 19:15:00,830 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-27 19:15:00,830 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：噗
+2024-10-27 19:15:07,852 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：你也成猫猫了
+2024-10-27 19:15:17,636 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：？
+2024-10-27 19:15:19,064 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：逆天了
+2024-10-27 19:15:46,833 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：？
+2024-10-27 19:15:53,747 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：喵酱
+2024-10-27 19:15:53,747 - WeChatRobotLogger - INFO - 接收到关键词占思翰：喵酱
+2024-10-27 19:15:55,826 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：61
+2024-10-27 19:15:55,826 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：29
+2024-10-27 19:15:55,826 - WeChatRobotLogger - INFO - 本轮对话开销：90tokens，0.00108元
+2024-10-27 19:15:57,677 - WeChatRobotLogger - INFO - 回复：【喵酱】喵~占思翰大人，有什么可以为您效劳的吗？机器喵酱随时准备着呢！🐾✨
+2024-10-27 19:16:04,697 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：哈哈哈哈哈
+2024-10-27 19:16:08,808 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-27 19:16:08,808 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：想笑
+2024-10-27 19:16:21,090 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：直接说就可以了吗
+2024-10-27 19:16:22,505 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：还是
+2024-10-27 19:16:29,499 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：要
+2024-10-27 19:16:33,633 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：唤醒
+2024-10-27 19:16:47,358 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：喵酱
+2024-10-27 19:16:47,358 - WeChatRobotLogger - INFO - 接收到关键词占思翰：喵酱
+2024-10-27 19:16:48,855 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：104
+2024-10-27 19:16:48,855 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：25
+2024-10-27 19:16:48,855 - WeChatRobotLogger - INFO - 本轮对话开销：129tokens，0.001548元
+2024-10-27 19:16:50,444 - WeChatRobotLogger - INFO - 回复：【喵酱】喵呜~占思翰大人，今天有什么想和机器喵酱分享的吗？🐱✨
+2024-10-27 19:17:01,400 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-27 19:17:01,400 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：哦哦哦哦
+2024-10-27 19:17:08,304 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：那我再来一遍
+2024-10-27 19:17:42,831 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-27 19:17:42,831 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：喵酱能告诉我为什么朝鲜和韩国连年交战吗
+2024-10-27 19:17:42,831 - WeChatRobotLogger - INFO - 接收到关键词占思翰：喵酱能告诉我为什么朝鲜和韩国连年交战吗
+2024-10-27 19:17:47,197 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：154
+2024-10-27 19:17:47,197 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：92
+2024-10-27 19:17:47,197 - WeChatRobotLogger - INFO - 本轮对话开销：246tokens，0.002952元
+2024-10-27 19:17:48,789 - WeChatRobotLogger - INFO - 回复：【喵酱】喵~占思翰大人，朝鲜和韩国之间并不是连年交战哦。实际上，他们在1953年签署了停战协议，结束了朝鲜战争。虽然之后有一些小规模的冲突，但并没有大规模的战争。他们之间存在很多问题，比如政治制度不同，还有对统一的看法也不一样。就像两只小猫因为意见不合而吵架一样，但并不意味着他们一直在打架哦。🐾🌸
+2024-10-27 19:18:17,985 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-27 19:18:17,985 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：你这个
+2024-10-27 19:18:22,291 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：有点像百度啊
+2024-10-27 19:18:25,103 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：那我以后
+2024-10-27 19:18:32,099 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：都不用问百度了
+2024-10-27 19:18:55,993 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：你这个
+2024-10-27 19:19:00,261 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：算ai不
+2024-10-27 19:19:22,754 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：那我能让他给我写一篇
+2024-10-27 19:19:26,980 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：论文吗
+2024-10-27 19:19:31,174 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：[耶][耶][耶][捂脸]
+2024-10-27 19:19:35,550 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】19:19
+2024-10-27 19:19:35,550 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱你认识kimi嘛
+2024-10-27 19:19:38,929 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：264
+2024-10-27 19:19:38,930 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：63
+2024-10-27 19:19:38,930 - WeChatRobotLogger - INFO - 本轮对话开销：327tokens，0.0039239999999999995元
+2024-10-27 19:19:40,521 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】喵~当然认识啦！Kimi是机器喵酱的好朋友呢，我们经常一起玩耍。Kimi非常聪明，也很乐于助人。🐾🌟 你有什么想对Kimi说的吗？机器喵酱可以帮你传达哦！🌸✨
+2024-10-27 19:20:05,714 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-27 19:20:05,714 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：哈哈哈哈
+2024-10-27 19:20:15,392 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：？！
+2024-10-27 19:20:30,630 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：你这边会有消息显示吗
+2024-10-27 19:20:54,251 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：他帮你回了
+2024-10-27 19:21:02,820 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：还会有吗
+2024-10-27 19:21:12,753 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：[动画表情]
+2024-10-27 19:21:20,250 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：啥叫比较专业
+引用 椰子罐头 的消息 : 比较专业，所以收费
+2024-10-27 19:21:23,255 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：？？？？
+2024-10-27 19:23:23,798 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-27 19:23:23,798 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：？？？？
+2024-10-27 19:23:28,887 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：你也要付费的
+2024-10-27 19:23:28,887 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：？
+2024-10-27 19:23:40,587 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：？？
+2024-10-27 19:23:45,481 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：你付了多少钱了
+2024-10-27 19:23:50,550 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：那你平时
+2024-10-27 19:23:53,857 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：用这玩意
+2024-10-27 19:23:58,980 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：还要花钱
+2024-10-27 19:24:00,716 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：？
+2024-10-27 19:25:08,459 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：哦哦哦哦
+2024-10-27 19:25:24,017 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-27 19:25:24,017 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：等等
+2024-10-27 19:25:28,666 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：最后问一个
+2024-10-27 19:26:29,315 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：喵酱能给我写一篇筑牢中华民族共同体的社会学案例分析论文吗
+2024-10-27 19:26:29,315 - WeChatRobotLogger - INFO - 接收到关键词占思翰：喵酱能给我写一篇筑牢中华民族共同体的社会学案例分析论文吗
+2024-10-27 19:26:38,604 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：356
+2024-10-27 19:26:38,604 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：191
+2024-10-27 19:26:38,604 - WeChatRobotLogger - INFO - 本轮对话开销：547tokens，0.0065639999999999995元
+2024-10-27 19:26:40,197 - WeChatRobotLogger - INFO - 回复：【喵酱】喵~占思翰大人，机器喵酱非常愿意帮助您理解筑牢中华民族共同体的重要性。但是写论文是个大工程，需要深入研究和严谨的学术分析。机器喵酱可以提供一些关键点和思路给您：
+
+1. **历史背景**：分析中华民族共同体的形成过程，以及历史上的重要事件如何影响了民族关系。
+2. **文化交融**：探讨不同民族文化的交流与融合，以及如何通过文化活动促进民族团结。
+3. **政策分析**：研究国家政策如何促进民族平等、团结和共同繁荣。
+4. **社会案例**：选取一些成功的社会案例，分析它们是如何促进民族团结和社会和谐的。
+5. **挑战与对策**：分析当前面临的挑战，以及可能的解决策略。
+
+希望这些建议能给您一些启发。如果您需要更详细的资料或者具体的案例，机器喵酱可以帮助您查找相关信息。🐾📚✨
+2024-10-27 19:26:41,628 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：[得意][得意][得意]
+2024-10-27 19:26:51,396 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-27 19:26:51,397 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：噢噢噢哦哦
+2024-10-27 19:26:55,580 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：怪不得
+2024-10-27 19:26:57,102 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】19:26
+2024-10-27 19:26:57,103 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-27 19:26:57,103 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-27 19:26:58,688 - WeChatRobotLogger - INFO - 退出提示：喵~时间过得真快，主人要离开了，喵酱会一直在这里，期待你的再次召唤~
+2024-10-27 19:26:58,696 - WeChatRobotLogger - INFO - 对话总消耗：1339元
+2024-10-27 19:26:58,696 - WeChatRobotLogger - INFO - 已保存对话历史记录

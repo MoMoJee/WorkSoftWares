@@ -1,0 +1,16 @@
+2024-10-26 17:01:30,781 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-26 17:01:36,827 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-26 17:01:36,827 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-26 17:01:37,617 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-26 17:01:38,184 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-26 17:01:58,974 - WeChatRobotLogger - INFO - AI民酱机器人启动！注意以下所有的【民酱】发言都源自AI大模型，不代表本人观点，和中央民族大学无关，请谨慎识别！
+2024-10-26 17:01:58,976 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】17:01
+2024-10-26 17:01:58,976 - WeChatRobotLogger - INFO - 【system】请求：#sys 民酱在吗
+2024-10-26 17:02:00,551 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5375
+2024-10-26 17:02:00,552 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：27
+2024-10-26 17:02:00,552 - WeChatRobotLogger - INFO - 本轮对话开销：5402tokens，0.06482399999999999元
+2024-10-26 17:02:00,552 - WeChatRobotLogger - INFO - system请求回复：民酱system:                 哈哈，民酱不在，不过机器喵酱在哦！有啥可以帮忙的吗？*/ω\*~
+2024-10-26 17:02:45,809 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-26 17:02:45,809 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-26 17:02:47,392 - WeChatRobotLogger - INFO - 退出提示：呜~主人要离开民酱了，我会想你的~记得下次再来找民酱玩哦~
+2024-10-26 17:02:47,395 - WeChatRobotLogger - INFO - 已保存对话历史记录

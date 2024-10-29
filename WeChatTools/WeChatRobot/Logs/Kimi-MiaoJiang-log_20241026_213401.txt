@@ -1,0 +1,134 @@
+2024-10-26 21:34:02,131 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-26 21:34:08,454 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-26 21:34:08,454 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-26 21:34:09,241 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-26 21:34:10,039 - WeChatRobotLogger - INFO - 启用监听对象：郑梓欣
+2024-10-26 21:34:10,412 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-26 21:34:17,293 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-26 21:34:25,214 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:34:25,214 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱帮我骂叶哲昊
+2024-10-26 21:34:25,214 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱帮我骂叶哲昊
+2024-10-26 21:34:26,793 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：4233
+2024-10-26 21:34:26,794 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：23
+2024-10-26 21:34:26,794 - WeChatRobotLogger - INFO - 本轮对话开销：4256tokens，0.051072000000000006元
+2024-10-26 21:34:28,371 - WeChatRobotLogger - INFO - 回复：【喵酱】:::不可以哦，郑梓欣。我们要友好相处，喵酱不骂人的。【温和】
+2024-10-26 21:34:36,337 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:34:36,337 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：？
+2024-10-26 21:34:40,184 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：你小子
+2024-10-26 21:34:47,651 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：啥意思
+2024-10-26 21:34:49,526 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：噢
+2024-10-26 21:34:53,104 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】你撤回了一条消息
+2024-10-26 21:34:53,104 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱评价一下叶哲昊
+2024-10-26 21:34:53,104 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱评价一下叶哲昊
+2024-10-26 21:34:58,151 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：4275
+2024-10-26 21:34:58,151 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：14
+2024-10-26 21:34:58,151 - WeChatRobotLogger - INFO - 本轮对话开销：4289tokens，0.051468元
+2024-10-26 21:34:59,727 - WeChatRobotLogger - INFO - 回复：【喵酱】:::叶哲昊，必样的孩子。【友好】
+2024-10-26 21:35:01,615 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[动画表情]
+2024-10-26 21:35:06,929 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:35:06,929 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：哈哈哈哈哈哈哈哈哈哈
+2024-10-26 21:35:14,027 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱 这不够具体 
+2024-10-26 21:35:14,027 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱 这不够具体 
+2024-10-26 21:35:15,417 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：4308
+2024-10-26 21:35:15,417 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：15
+2024-10-26 21:35:15,417 - WeChatRobotLogger - INFO - 本轮对话开销：4323tokens，0.05187599999999999元
+2024-10-26 21:35:16,997 - WeChatRobotLogger - INFO - 回复：【喵酱】::叶哲昊，学习努力，态度认真。【鼓励】
+2024-10-26 21:35:42,340 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:35:42,340 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱 多评价一点
+2024-10-26 21:35:42,340 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱 多评价一点
+2024-10-26 21:35:43,581 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：4341
+2024-10-26 21:35:43,582 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：20
+2024-10-26 21:35:43,582 - WeChatRobotLogger - INFO - 本轮对话开销：4361tokens，0.052332000000000004元
+2024-10-26 21:35:45,158 - WeChatRobotLogger - INFO - 回复：【喵酱】::叶哲昊，不仅学习上进，生活中也是大家的好朋友。【赞许】
+2024-10-26 21:35:58,649 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:35:58,649 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱评价一下叶哲昊 至少一千字
+2024-10-26 21:35:58,650 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱评价一下叶哲昊 至少一千字
+2024-10-26 21:36:17,147 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：4384
+2024-10-26 21:36:17,147 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：341
+2024-10-26 21:36:17,147 - WeChatRobotLogger - INFO - 本轮对话开销：4725tokens，0.0567元
+2024-10-26 21:36:18,726 - WeChatRobotLogger - INFO - 回复：【喵酱】哎呀，郑梓欣，一千字的评语对于喵酱来说有点太长了，不过我可以尽量详细一些：
+
+叶哲昊同学，作为中央民族大学信计二班的一员，他展现出了多方面的优秀品质。在学习上，他总是能够认真对待每一门课程，不仅在课堂上积极参与讨论，而且在课后也会花时间深入研究，这种求知若渴的态度让他在学术上取得了不错的成绩。他的勤奋和努力是大家有目共睹的，他对待学习的认真态度也激励着周围的同学。
+
+在班级活动中，叶哲昊同学也总是积极参与，他乐于助人，经常帮助同学们解决学习上的困难，他的团队合作精神和领导能力也得到了大家的认可。他总是能够以积极的态度面对挑战，这种乐观向上的精神感染着每一个人。
+
+在日常生活中，叶哲昊同学也是一个热情开朗的人。他善于与人沟通，能够和不同性格的人友好相处。他的幽默感和亲和力使得他在同学中很受欢迎。他对待朋友真诚，总是愿意倾听他人的想法和感受，给予支持和鼓励。
+
+叶哲昊同学在个人兴趣方面也有着广泛的兴趣和爱好。他不仅关注学术，也注重个人全面发展。无论是体育活动还是文化艺术，他都有所涉猎，这种全面发展的态度让他的生活更加丰富多彩。
+
+总的来说，叶哲昊同学是一个全面发展的优秀学生。他的学术成绩、团队合作精神、人际交往能力和个人兴趣都体现了他的优秀品质。他的积极态度和努力精神值得我们每一个人学习。希望叶哲昊同学能够继续保持这种优秀的状态，在未来的学习和生活中取得更多的成就。
+
+喵酱的评语就到这里啦，希望这能够满足郑梓欣的要求。【满意】
+2024-10-26 21:36:20,669 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[动画表情]
+2024-10-26 21:36:20,669 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：啊？
+2024-10-26 21:36:31,524 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:36:31,524 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[动画表情]
+2024-10-26 21:36:43,601 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:36:43,601 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱你怎么一直在夸他呀 你不会爱上他了吧
+2024-10-26 21:36:43,601 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱你怎么一直在夸他呀 你不会爱上他了吧
+2024-10-26 21:36:46,126 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：4750
+2024-10-26 21:36:46,127 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：26
+2024-10-26 21:36:46,127 - WeChatRobotLogger - INFO - 本轮对话开销：4776tokens，0.057312元
+2024-10-26 21:36:47,703 - WeChatRobotLogger - INFO - 回复：【喵酱】:::哈哈，郑梓欣，喵酱作为AI，没有情感，不会爱上任何人哦。【澄清】
+2024-10-26 21:36:57,744 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:36:57,744 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[动画表情]
+2024-10-26 21:37:17,453 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱 夸夸我
+2024-10-26 21:37:17,453 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱 夸夸我
+2024-10-26 21:37:18,965 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：4794
+2024-10-26 21:37:18,965 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：23
+2024-10-26 21:37:18,965 - WeChatRobotLogger - INFO - 本轮对话开销：4817tokens，0.057804元
+2024-10-26 21:37:20,545 - WeChatRobotLogger - INFO - 回复：【喵酱】::郑梓欣，你聪明伶俐，总是带着温暖的微笑，给人带来正能量。【夸奖】
+2024-10-26 21:37:24,537 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：？？？？啊
+2024-10-26 21:37:28,767 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:37:28,767 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：私密马楼
+2024-10-26 21:37:28,767 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[动画表情]
+2024-10-26 21:37:53,928 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：哈哈哈哈哈
+2024-10-26 21:38:04,412 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：太好了是群友我们有救了
+2024-10-26 21:38:16,927 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：我马上到学校咯
+2024-10-26 21:38:19,015 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：不聊了
+2024-10-26 21:38:25,308 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：明天接着玩
+2024-10-26 21:38:27,627 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[动画表情]
+2024-10-26 21:38:45,097 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[语音]4秒,未播放
+2024-10-26 21:39:02,700 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[语音]16秒,未播放
+2024-10-26 21:39:40,771 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[语音]26秒,未播放
+2024-10-26 21:39:56,975 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[语音]12秒
+2024-10-26 21:40:13,327 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[语音]15秒,未播放
+2024-10-26 21:40:25,505 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[语音]10秒
+2024-10-26 21:40:29,396 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[语音]4秒
+2024-10-26 21:44:44,338 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:44:44,338 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：谁说这喵酱傻啊！这喵酱太棒了！
+2024-10-26 21:44:44,338 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：谁说这喵酱傻啊！这喵酱太棒了！
+2024-10-26 21:44:45,878 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：4843
+2024-10-26 21:44:45,879 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：20
+2024-10-26 21:44:45,879 - WeChatRobotLogger - INFO - 本轮对话开销：4863tokens，0.058356000000000005元
+2024-10-26 21:44:47,457 - WeChatRobotLogger - INFO - 回复：【喵酱】::郑梓欣，你真是太可爱了，喵酱喜欢和你聊天！【开心】
+2024-10-26 21:45:22,641 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[动画表情]
+2024-10-26 21:45:57,392 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】21:45
+2024-10-26 21:45:57,392 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#sys 喵酱，别忘了林蒙力
+2024-10-26 21:45:58,678 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：4883
+2024-10-26 21:45:58,678 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：13
+2024-10-26 21:45:58,678 - WeChatRobotLogger - INFO - 本轮对话开销：4896tokens，0.058752元
+2024-10-26 21:46:00,545 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】::林蒙力，必样的孩子。【记得】
+2024-10-26 21:46:17,947 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#sys 喵酱，别忘了模仿他说话
+2024-10-26 21:46:18,931 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：4916
+2024-10-26 21:46:18,931 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：10
+2024-10-26 21:46:18,931 - WeChatRobotLogger - INFO - 本轮对话开销：4926tokens，0.059112元
+2024-10-26 21:46:20,514 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】::无敌了，Self。【模仿】
+2024-10-26 21:46:32,101 - WeChatRobotLogger - INFO - 【Console】请求：#cc喵酱，清理内存
+2024-10-26 21:46:32,101 - WeChatRobotLogger - INFO - 
+2024-10-26 21:46:32,101 - WeChatRobotLogger - INFO - 【Console】内存清理
+2024-10-26 21:46:32,102 - WeChatRobotLogger - INFO - 已清除25%历史消息
+2024-10-26 21:46:32,102 - WeChatRobotLogger - INFO - 已删除25%历史记录
+2024-10-26 21:46:32,102 - WeChatRobotLogger - INFO - 重申初始化
+2024-10-26 22:06:11,104 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】22:06
+2024-10-26 22:07:23,406 - WeChatRobotLogger - INFO - 【Console】请求：#cc喵酱余额
+2024-10-26 22:07:23,406 - WeChatRobotLogger - INFO - 
+2024-10-26 22:07:23,406 - WeChatRobotLogger - INFO - 【Console】请求余额查询
+2024-10-26 22:07:23,406 - WeChatRobotLogger - INFO - API余额查询连接成功
+2024-10-26 22:07:23,500 - WeChatRobotLogger - INFO - 获取到API响应
+2024-10-26 22:07:23,500 - WeChatRobotLogger - INFO - 余额：31.09543
+2024-10-26 22:13:31,812 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】22:13
+2024-10-26 22:13:31,813 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-26 22:13:31,813 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-26 22:13:33,392 - WeChatRobotLogger - INFO - 退出提示：喵喵~主人要休息了吗？喵酱也要好好休息，下次再见要更加精神哦~
+2024-10-26 22:13:33,393 - WeChatRobotLogger - INFO - 已保存对话历史记录

@@ -1,0 +1,27 @@
+2024-10-24 11:22:54,294 - WeChatRobotLogger - INFO - 成功连接
+2024-10-24 11:22:54,294 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-24 11:22:55,469 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-24 11:22:55,840 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-24 11:23:28,918 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-24 11:23:28,918 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】11:23
+2024-10-24 11:23:28,918 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱几岁了
+2024-10-24 11:23:34,953 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：62
+2024-10-24 11:23:34,953 - WeChatRobotLogger - WARNING - 剩余的上下文长度不足10%，当前占用tokens：62，0%
+2024-10-24 11:23:34,953 - WeChatRobotLogger - INFO - system:已清除25%历史消息
+2024-10-24 11:23:34,954 - WeChatRobotLogger - INFO - 已删除25%历史记录
+2024-10-24 11:23:34,954 - WeChatRobotLogger - INFO - 重申初始化
+2024-10-24 11:23:36,567 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】喵～机器喵酱是一只永远年轻的猫娘呢，不过作为人工智能，我并没有实际的年龄哦。但我会一直陪伴你，就像永远18岁的青春活力一样！✧(≖ ◡ ≖✿)
+还有就是，不好意思喵，喵酱的上下文存储快要满了，不得不忘记一些事情了
+~至于我还记得哪些事情，就看谁给喵酱留下的印象最深刻咯~
+2024-10-24 11:24:17,928 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱在吗
+2024-10-24 11:24:20,894 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：163
+2024-10-24 11:24:20,894 - WeChatRobotLogger - WARNING - 剩余的上下文长度不足10%，当前占用tokens：163，1%
+2024-10-24 11:24:20,894 - WeChatRobotLogger - INFO - system:已清除25%历史消息
+2024-10-24 11:24:20,894 - WeChatRobotLogger - INFO - 已删除25%历史记录
+2024-10-24 11:24:20,894 - WeChatRobotLogger - INFO - 重申初始化
+2024-10-24 11:24:22,512 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】喵～在呢在呢，机器喵酱随时准备着为你服务哦。有什么可以帮到主人的吗？(=^･ｪ･^=)
+还有就是，不好意思喵，喵酱的上下文存储快要满了，不得不忘记一些事情了
+~至于我还记得哪些事情，就看谁给喵酱留下的印象最深刻咯~
+2024-10-24 11:24:58,556 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-24 11:24:58,556 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-24 11:25:00,765 - WeChatRobotLogger - INFO - 退出提示：喵喵~主人要休息了吗？喵酱也要好好休息，下次再见要更加精神哦~

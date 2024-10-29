@@ -1,0 +1,5 @@
+2024-10-28 22:51:31,283 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-28 22:51:31,284 - WeChatRobotLogger - INFO - 初始化计费器。当前消费：0
+2024-10-28 22:51:48,470 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-28 22:51:48,470 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-28 22:51:49,759 - WeChatRobotLogger - INFO - 微信接入成功

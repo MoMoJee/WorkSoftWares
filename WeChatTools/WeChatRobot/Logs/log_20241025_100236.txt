@@ -1,0 +1,17 @@
+2024-10-25 10:02:36,595 - WeChatRobotLogger - INFO - 成功连接
+2024-10-25 10:02:46,049 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-25 10:02:46,049 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-25 10:02:46,852 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-25 10:02:47,380 - WeChatRobotLogger - INFO - 启用监听对象：青苗🌱
+2024-10-25 10:02:54,424 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-25 10:02:54,424 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】
+2024-10-25 10:03:04,399 - WeChatRobotLogger - INFO - 【system】请求：#sys喵酱？
+2024-10-25 10:03:06,318 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：6033
+2024-10-25 10:03:06,319 - WeChatRobotLogger - INFO - system请求回复：喵酱system: :::::喵酱在，主人有什么吩咐吗？（乖巧地摇尾巴）【等待】
+2024-10-25 10:03:10,808 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：可以给群u权限吗
+2024-10-25 10:03:13,693 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-25 10:03:13,693 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：[动画表情]
+2024-10-25 10:03:45,410 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-25 10:03:45,410 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-25 10:03:47,027 - WeChatRobotLogger - INFO - 退出提示：喵喵~主人要休息了吗？喵酱也要好好休息，下次再见要更加精神哦~
+2024-10-25 10:03:47,032 - WeChatRobotLogger - INFO - 已保存对话历史记录

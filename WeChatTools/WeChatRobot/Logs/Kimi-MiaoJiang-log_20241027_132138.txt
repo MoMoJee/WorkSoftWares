@@ -1,0 +1,6 @@
+2024-10-27 13:21:38,923 - WeChatRobotLogger - INFO - 成功连接.Model：qwen2.5:14b
+2024-10-27 13:21:38,923 - WeChatRobotLogger - INFO - 初始化计费器。当前消费：0
+2024-10-27 13:22:05,139 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-27 13:22:05,139 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-27 13:22:05,935 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-27 13:22:06,844 - WeChatRobotLogger - INFO - 启用监听对象：郑梓欣

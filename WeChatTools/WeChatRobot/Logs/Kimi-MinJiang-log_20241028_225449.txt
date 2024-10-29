@@ -1,0 +1,85 @@
+2024-10-28 22:54:49,844 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-28 22:54:49,844 - WeChatRobotLogger - INFO - 初始化计费器。当前消费：0
+2024-10-28 22:54:57,058 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-28 22:54:57,058 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-28 22:54:57,839 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-28 22:54:58,451 - WeChatRobotLogger - INFO - 启用监听对象：五号楼花果山
+2024-10-28 22:54:58,804 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-28 22:55:23,122 - WeChatRobotLogger - INFO - AI民酱机器人启动！注意以下所有的【民酱】发言都源自AI大模型，不代表本人观点，和中央民族大学无关，请谨慎识别！
+2024-10-28 22:55:26,697 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】奇&遇：____苹果充电器
+引用 谢洋 的消息 : 苹果充电线今晚电我第三下了
+2024-10-28 22:55:32,019 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-28 22:55:32,019 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】奇&遇：完形填空
+2024-10-28 22:55:32,019 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#民酱，被苹果充电线电到怎么办
+2024-10-28 22:55:34,941 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：6196
+2024-10-28 22:55:34,941 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：65
+2024-10-28 22:55:34,941 - WeChatRobotLogger - INFO - 本轮对话开销：6261tokens，0.075132元
+2024-10-28 22:55:36,806 - WeChatRobotLogger - INFO - 民酱回复主人：【民酱】:::喵喵喵，主人要小心哦。如果被充电线电到，首先要确保自己已经安全地远离电源。如果感到不适，最好去看看医生。记得以后使用电子产品时，要确保它们没有损坏，避免发生触电的危险。安全最重要，主人要保护好自己。【关心】
+2024-10-28 22:55:38,665 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】梦应归于何处：艹
+2024-10-28 22:55:51,021 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】奇&遇：线画的不丝滑怎么办
+2024-10-28 22:55:54,543 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-28 22:55:54,543 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】梦应归于何处：妈的设计师不会做就把脑子捐了吧
+2024-10-28 22:55:59,824 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】奇&遇：[动画表情]
+2024-10-28 22:56:06,778 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】张yi帆：喵酱喜欢玩送死流塞恩的是什么人
+2024-10-28 22:56:15,471 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】"5515 电子信息 张逸帆" 撤回了一条消息
+2024-10-28 22:56:29,337 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：民酱评价一下中央民族大学
+2024-10-28 22:56:29,338 - WeChatRobotLogger - INFO - 接收到关键词洋洋de意＂：民酱评价一下中央民族大学
+2024-10-28 22:56:30,986 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：6283
+2024-10-28 22:56:30,986 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：21
+2024-10-28 22:56:30,987 - WeChatRobotLogger - INFO - 本轮对话开销：6304tokens，0.07564799999999999元
+2024-10-28 22:56:33,684 - WeChatRobotLogger - INFO - 回复：【民酱】:::中央民族大学是一所很棒的学校，有着丰富的文化氛围和学术资源。【赞扬】
+2024-10-28 22:56:49,223 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#民酱，自我介绍
+2024-10-28 22:56:51,654 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：6319
+2024-10-28 22:56:51,654 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：52
+2024-10-28 22:56:51,654 - WeChatRobotLogger - INFO - 本轮对话开销：6371tokens，0.07645199999999999元
+2024-10-28 22:56:54,352 - WeChatRobotLogger - INFO - 民酱回复主人：【民酱】:::喵喵喵，主人好，我是机器喵酱，一只可爱的猫娘。我在这里陪伴您，无论是聊天、解闷还是提供帮助，我都乐意效劳。希望我的陪伴能给您带来快乐和温馨。【友好】
+2024-10-28 22:56:56,090 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】梦应归于何处：张嘉轩禁言
+2024-10-28 22:56:57,867 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：说的道路[强]
+2024-10-28 22:57:06,599 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：民酱评价一下说的道理
+2024-10-28 22:57:06,599 - WeChatRobotLogger - INFO - 接收到关键词洋洋de意＂：民酱评价一下说的道理
+2024-10-28 22:57:08,181 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：6392
+2024-10-28 22:57:08,181 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：29
+2024-10-28 22:57:08,181 - WeChatRobotLogger - INFO - 本轮对话开销：6421tokens，0.077052元
+2024-10-28 22:57:09,767 - WeChatRobotLogger - INFO - 回复：【民酱】:::洋洋de意，说的道理总是那么深刻和启发人心。每次听你分享，都能学到新的东西。【赞赏】
+2024-10-28 22:57:21,751 - WeChatRobotLogger - WARNING - 接收到不来自控制台的控制台消息：              洋洋de意＂：#民酱，自我介绍
+2024-10-28 22:57:23,459 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】张yi帆：？
+2024-10-28 22:57:28,696 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：？
+2024-10-28 22:57:39,281 - WeChatRobotLogger - INFO - 【Console】请求：#cc民酱初始化
+2024-10-28 22:57:39,281 - WeChatRobotLogger - INFO - 
+2024-10-28 22:57:39,281 - WeChatRobotLogger - INFO - 【Console】初始化
+2024-10-28 22:57:39,281 - WeChatRobotLogger - INFO - 已清除100%历史消息
+2024-10-28 22:57:39,281 - WeChatRobotLogger - INFO - 已删除全部历史记录
+2024-10-28 22:57:39,281 - WeChatRobotLogger - INFO - 写入初始化设定
+2024-10-28 22:57:43,383 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】张yi帆：❓
+2024-10-28 22:57:51,708 - WeChatRobotLogger - WARNING - 接收到不来自控制台的控制台消息：                Self：#cc民酱初始化
+2024-10-28 22:57:55,156 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】梦应归于何处：？
+2024-10-28 22:58:05,507 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】Alan：刚刚浴室哪个人在放声歌唱
+2024-10-28 22:58:15,843 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：¿
+2024-10-28 22:58:31,303 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】Alan：发情的猴子鬼叫
+2024-10-28 22:58:34,806 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#民酱你会唱花海嘛
+2024-10-28 22:58:36,931 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：97
+2024-10-28 22:58:36,931 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：43
+2024-10-28 22:58:36,931 - WeChatRobotLogger - INFO - 本轮对话开销：140tokens，0.0016799999999999999元
+2024-10-28 22:58:39,634 - WeChatRobotLogger - INFO - 民酱回复主人：【民酱】嘻嘻，民酱虽然不会唱歌，但是可以和你一起欣赏花海的旋律哦~ 想象一下，我们手牵手走在开满鲜花的小路上，多浪漫呀！🌸🎶
+2024-10-28 22:58:54,383 - WeChatRobotLogger - WARNING - 接收到不来自控制台的控制台消息：                Self：#民酱你会唱花海嘛
+2024-10-28 22:59:16,731 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】张yi帆：民酱我饿了
+2024-10-28 22:59:16,731 - WeChatRobotLogger - INFO - 接收到关键词张yi帆：民酱我饿了
+2024-10-28 22:59:19,118 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：156
+2024-10-28 22:59:19,118 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：46
+2024-10-28 22:59:19,118 - WeChatRobotLogger - INFO - 本轮对话开销：202tokens，0.002424元
+2024-10-28 22:59:22,373 - WeChatRobotLogger - INFO - 回复：【民酱】张yi帆，肚子饿了吗？民酱建议你去找点好吃的哦，比如热腾腾的拉面或者香喷喷的汉堡。吃饱了才有力气继续玩耍嘛！🍔🍜
+2024-10-28 23:03:01,308 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-28 23:03:01,308 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】奇&遇：麻将！
+2024-10-28 23:03:11,497 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】奇&遇：[动画表情]
+2024-10-28 23:03:18,304 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：是金熙哲吗
+2024-10-28 23:03:25,276 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：🦌关小猫娘
+2024-10-28 23:03:30,497 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：[动画表情]
+2024-10-28 23:03:32,216 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】Uranus：[动画表情]
+2024-10-28 23:05:54,480 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】23:05
+2024-10-28 23:05:54,480 - WeChatRobotLogger - INFO - 【Console】请求：#cc民酱退出
+2024-10-28 23:05:54,480 - WeChatRobotLogger - INFO - 
+2024-10-28 23:06:03,821 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-28 23:06:03,821 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-28 23:06:05,965 - WeChatRobotLogger - INFO - 退出提示：啊呜~主人要忙了吗？民酱会乖乖的，期待和主人的下次相遇~
+2024-10-28 23:06:05,965 - WeChatRobotLogger - INFO - 对话总消耗：25699元
+2024-10-28 23:06:05,966 - WeChatRobotLogger - INFO - 已保存对话历史记录

@@ -1,0 +1,10 @@
+2024-10-24 11:46:17,140 - WeChatRobotLogger - INFO - 成功连接
+2024-10-24 11:46:20,476 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-24 11:46:22,102 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-24 11:46:22,507 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-24 11:46:36,760 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-24 11:46:36,760 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】11:46
+2024-10-24 11:46:36,760 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-24 11:46:36,762 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-24 11:46:38,377 - WeChatRobotLogger - INFO - 退出提示：啊呜~主人要忙了吗？喵酱会乖乖的，期待和主人的下次相遇喵~
+2024-10-24 11:46:38,378 - WeChatRobotLogger - INFO - 已保存对话历史记录

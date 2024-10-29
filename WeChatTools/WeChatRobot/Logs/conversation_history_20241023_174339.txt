@@ -1,0 +1,3 @@
+2024-10-23 17:44:02,144 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】17:44
+2024-10-23 17:44:02,144 - WeChatRobotLogger - INFO - 接收到主人新消息                Self：#喵酱几岁了
+2024-10-23 17:44:05,393 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了

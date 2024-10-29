@@ -1,0 +1,16 @@
+2024-10-26 17:00:53,767 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-26 17:01:11,762 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-26 17:01:11,763 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-26 17:01:13,043 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-26 17:01:20,380 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-26 17:01:58,975 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-26 17:01:58,976 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】17:01
+2024-10-26 17:01:58,976 - WeChatRobotLogger - INFO - 【system】请求：#sys 民酱在吗
+2024-10-26 17:02:01,379 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：7369
+2024-10-26 17:02:01,379 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：44
+2024-10-26 17:02:01,379 - WeChatRobotLogger - INFO - 本轮对话开销：7413tokens，0.08895600000000001元
+2024-10-26 17:02:01,379 - WeChatRobotLogger - INFO - system请求回复：喵酱system: 在的在的，我一直都在哦！😄 有什么可以帮到你的吗？夜深了，如果你还没休息的话，也别忘了早点睡哦。🌟🌸
+2024-10-26 17:02:46,736 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-26 17:02:46,736 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-26 17:02:48,314 - WeChatRobotLogger - INFO - 退出提示：呜~主人要离开喵酱了，我会想你的~记得下次再来找喵酱玩哦~
+2024-10-26 17:02:48,318 - WeChatRobotLogger - INFO - 已保存对话历史记录

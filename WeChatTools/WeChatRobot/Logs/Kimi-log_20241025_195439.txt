@@ -1,0 +1,76 @@
+2024-10-25 19:54:39,821 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-25 19:54:45,169 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-25 19:54:45,169 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-25 19:54:45,945 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-25 19:54:46,495 - WeChatRobotLogger - INFO - 启用监听对象：五号楼花果山
+2024-10-25 19:55:09,213 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-25 19:55:09,214 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】19:33
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5206统计王彦淇：[动画表情]
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5317光电金熙哲：[动画表情]
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5317光电金熙哲：#接龙 错过民酱的重新定制喵
+例 5317金熙哲
+
+1. 5317 7个
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5317光电金熙哲：#接龙 错过民酱的重新定制喵
+例 5317金熙哲
+
+1. 5317 7个
+2. 5307王章蕴
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5206统计王彦淇：我自己买了
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5206统计王彦淇：[动画表情]
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5206统计王彦淇：我一百个里面夹带了一个民酱
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：[图片]
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5317光电金熙哲：#接龙 错过民酱的重新定制喵
+例 5317金熙哲
+
+1. 5317 7个
+2. 5307王章蕴
+3. 5322 1个
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：豪堪🤓👆
+引用 5526 法学 谢洋 的消息 : [图片]
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5317光电金熙哲：其他人呢
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】Zone：豪堪
+引用 5526 法学 谢洋 的消息 : [图片]
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5317光电金熙哲：有没有要民酱的
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】ㅤ：定制这个可以干嘛
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】ㅤ：要团建吗
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：[图片]
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：巨好喝
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：[动画表情]
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】伊斯坦：兄弟们
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】伊斯坦：有没有泥民专用点赞的表情包
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】伊斯坦：[鼓掌]
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：[动画表情]
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：[动画表情]
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：[动画表情]
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：[动画表情]
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】张yi帆：[动画表情]
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5317光电金熙哲：没有要民酱的吗
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】"5317光电金熙哲" 撤回了一条消息
+2024-10-25 19:55:09,215 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5317光电金熙哲：这个计划人不够要流产了
+2024-10-25 19:55:11,230 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】19:55
+2024-10-25 19:55:37,013 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-25 19:55:37,014 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】
+2024-10-25 19:55:41,000 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5317光电金熙哲：#接龙 错过民酱的重新定制喵
+例 5317金熙哲
+
+1. 5317 7个
+2. 5307王章蕴
+3. 5322 1个
+4. 5522 2个 陈言
+5. 5617 1个魏奕
+2024-10-25 19:55:52,967 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5317光电金熙哲：[旺柴]
+2024-10-25 19:56:23,142 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】伊斯坦：[可怜]
+引用 庞罗泽的提醒🦌关小猫娘 的消息 : 一手交钱，一手交货
+2024-10-25 19:56:39,167 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】秦正犽：🇰🇷了
+引用 5526 法学 谢洋 的消息 : [动画表情]
+2024-10-25 19:56:49,470 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱你认识民酱嘛，她是中央民族大学的吉祥物
+2024-10-25 19:56:51,705 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5154
+2024-10-25 19:56:53,301 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】林蒙力，太好了，是民酱我们有救了
+
+这样模仿林蒙力同学的口吻，有没有更接近一点呢？*/ω\*~
+2024-10-25 19:57:42,814 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-25 19:57:42,814 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-25 19:57:44,407 - WeChatRobotLogger - INFO - 退出提示：喵~是时候说再见了，喵酱会在这里等你的~下次见喵~
+2024-10-25 19:57:44,411 - WeChatRobotLogger - INFO - 已保存对话历史记录

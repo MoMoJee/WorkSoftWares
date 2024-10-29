@@ -1,0 +1,16 @@
+2024-10-24 16:50:23,358 - WeChatRobotLogger - INFO - 成功连接
+2024-10-24 16:50:27,684 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-24 16:50:27,684 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-24 16:50:28,522 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-24 16:50:28,645 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-24 16:50:37,490 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-24 16:50:37,490 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】16:50
+2024-10-24 16:50:37,492 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱在吗
+2024-10-24 16:50:37,694 - WeChatRobotLogger - ERROR - Error code: 400 - {'error': {'message': 'Invalid request: Your request exceeded model token limit: 8192', 'type': 'invalid_request_error'}}
+2024-10-24 16:50:37,695 - WeChatRobotLogger - INFO - system:已清除25%历史消息
+2024-10-24 16:50:37,695 - WeChatRobotLogger - INFO - 已删除25%历史记录
+2024-10-24 16:50:37,695 - WeChatRobotLogger - INFO - 重申初始化
+2024-10-24 16:50:39,281 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】呜呜 请求的 tokens 数和设置的 max_tokens 加和超过了模型规格长度喵~。让喵酱休息一下啦~
+2024-10-24 16:50:55,623 - WeChatRobotLogger - INFO - 【Console】请求：#cc清理内存
+2024-10-24 16:50:55,623 - WeChatRobotLogger - INFO - 
+2024-10-24 16:50:55,623 - WeChatRobotLogger - INFO - 【Console】内存清理

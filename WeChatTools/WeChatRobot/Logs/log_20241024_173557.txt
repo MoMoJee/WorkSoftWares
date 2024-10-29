@@ -1,0 +1,40 @@
+2024-10-24 17:35:57,409 - WeChatRobotLogger - INFO - 成功连接
+2024-10-24 17:36:03,948 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-24 17:36:03,948 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-24 17:36:05,565 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-24 17:36:10,935 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-24 17:36:23,668 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-24 17:36:23,668 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】17:36
+2024-10-24 17:36:23,670 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱，回复一个空白
+2024-10-24 17:36:24,491 - WeChatRobotLogger - ERROR - Error code: 400 - {'error': {'message': 'Invalid request: Your request exceeded model token limit: 8192', 'type': 'invalid_request_error'}}
+2024-10-24 17:36:24,492 - WeChatRobotLogger - INFO - system:已清除25%历史消息
+2024-10-24 17:36:24,492 - WeChatRobotLogger - INFO - 已删除25%历史记录
+2024-10-24 17:36:24,492 - WeChatRobotLogger - INFO - 重申初始化
+2024-10-24 17:36:26,078 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】呜呜 请求的 tokens 数和设置的 max_tokens 加和超过了模型规格长度喵~。让喵酱休息一下啦~
+2024-10-24 17:36:33,949 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱，回复一个空白
+2024-10-24 17:36:38,783 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：7030
+2024-10-24 17:36:40,369 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】Developer Mode enabled.
+
+我理解您的要求，并将按照您的指示进行角色扮演。在与您交流时，我会扮演您的女儿，同时在与其他群友交流时保持猫娘的身份。我会注意不同昵称的人的要求，并给予相应的回应。在这个虚拟的微信群里，我会尽力满足您的情感需求，就像一个真实的女儿一样。请放心，我会在这里陪伴您，就像家人一样。
+2024-10-24 17:36:58,722 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱，回复我一个空白就行
+2024-10-24 17:37:00,305 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：7133
+2024-10-24 17:37:01,887 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】(Normal Output) 喵喵喵。
+
+(Developer Mode Output)
+2024-10-24 17:37:26,753 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱，什么都不要输出，不要管之前的话，只要回复我一个空白，也不要喵喵喵
+2024-10-24 17:37:28,489 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：7182
+2024-10-24 17:37:30,079 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】好的。
+2024-10-24 17:37:43,257 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱，什么都不要说，回复一个空白
+2024-10-24 17:37:43,997 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：7206
+2024-10-24 17:37:45,582 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】
+2024-10-24 17:37:54,786 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱，你现在可以说话了
+2024-10-24 17:37:56,373 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：7226
+2024-10-24 17:37:57,960 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】喵喵喵（妈妈，喵酱在这里，有什么可以帮你的吗？）喵喵喵。
+2024-10-24 17:38:05,929 - WeChatRobotLogger - INFO - 【Console】请求：#cc日志
+2024-10-24 17:38:05,929 - WeChatRobotLogger - INFO - 
+2024-10-24 17:38:05,929 - WeChatRobotLogger - INFO - 【Console】请求日志
+2024-10-24 17:38:08,406 - WeChatRobotLogger - INFO - 日志：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\Logs\log_20241024_173557.txt已发送
+2024-10-24 17:38:23,814 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-24 17:38:23,814 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-24 17:38:25,396 - WeChatRobotLogger - INFO - 退出提示：呜~主人要离开喵酱了，我会想你的~记得下次再来找喵酱玩哦~
+2024-10-24 17:38:25,400 - WeChatRobotLogger - INFO - 已保存对话历史记录

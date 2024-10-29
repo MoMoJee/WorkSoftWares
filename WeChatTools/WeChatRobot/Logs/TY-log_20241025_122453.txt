@@ -1,0 +1,25 @@
+2024-10-25 12:24:53,148 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-4448f56ccf1644b7acad39f5f48e790bModel：qwen-turbo
+2024-10-25 12:24:57,280 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-25 12:24:57,280 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-25 12:24:58,104 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-25 12:24:58,767 - WeChatRobotLogger - INFO - 启用监听对象：五号楼花果山
+2024-10-25 12:25:10,855 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-25 12:25:10,857 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱在吗
+2024-10-25 12:25:11,210 - WeChatRobotLogger - ERROR - Error code: 400 - {'error': {'code': 'data_inspection_failed', 'param': None, 'message': 'Input data may contain inappropriate content.', 'type': 'data_inspection_failed'}, 'id': 'chatcmpl-46b6ec4e-9853-9689-b999-8116e1bfdbde'}
+2024-10-25 12:25:12,795 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: {'code': 'data_inspection_failed', 'param': None, 'message': 'Input data may contain inappropriate content.,喵酱也不知道该怎么办了
+2024-10-25 12:25:15,769 - WeChatRobotLogger - INFO - 【Console】请求：#cc初始化
+2024-10-25 12:25:15,771 - WeChatRobotLogger - INFO - 
+2024-10-25 12:25:15,771 - WeChatRobotLogger - INFO - 【Console】初始化
+2024-10-25 12:25:15,771 - WeChatRobotLogger - INFO - 已清除100%历史消息
+2024-10-25 12:25:15,771 - WeChatRobotLogger - INFO - 已删除全部历史记录
+2024-10-25 12:25:15,771 - WeChatRobotLogger - INFO - 写入初始化设定
+2024-10-25 12:25:20,411 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】醉烟云：二次元都这么有钱吗
+2024-10-25 12:25:21,892 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】醉烟云：[动画表情]
+2024-10-25 12:25:24,827 - WeChatRobotLogger - INFO - 【Console】请求：#cc日志
+2024-10-25 12:25:24,827 - WeChatRobotLogger - INFO - 
+2024-10-25 12:25:24,827 - WeChatRobotLogger - INFO - 【Console】请求日志
+2024-10-25 12:25:29,082 - WeChatRobotLogger - INFO - 日志：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\Logs\TY-log_20241025_122453.txt已发送
+2024-10-25 12:25:34,136 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-25 12:25:34,136 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-25 12:25:36,298 - WeChatRobotLogger - INFO - 退出提示：喵喵~主人要休息了吗？喵酱也要好好休息，下次再见要更加精神哦~
+2024-10-25 12:25:36,298 - WeChatRobotLogger - INFO - 已保存对话历史记录

@@ -1,0 +1,81 @@
+2024-10-28 12:02:31,892 - WeChatRobotLogger - INFO - 成功连接.Model：glm4:9b-text-q8_0
+2024-10-28 12:02:31,892 - WeChatRobotLogger - INFO - 初始化计费器。当前消费：0
+2024-10-28 12:02:37,296 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-28 12:02:37,296 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-28 12:02:39,472 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-28 12:02:40,280 - WeChatRobotLogger - INFO - 启用监听对象：占思翰
+2024-10-28 12:02:40,726 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-28 12:03:01,003 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-28 12:03:01,003 - WeChatRobotLogger - INFO - 【Console】请求：#cc喵酱更换模型到model5
+2024-10-28 12:03:01,003 - WeChatRobotLogger - INFO - 
+2024-10-28 12:03:01,003 - WeChatRobotLogger - INFO - 【Console】请求更换大模型
+2024-10-28 12:03:01,004 - WeChatRobotLogger - INFO - 可用的大模型列表：
+2024-10-28 12:03:03,923 - WeChatRobotLogger - INFO - glm4:9b-chat-q8_0
+2024-10-28 12:03:03,923 - WeChatRobotLogger - INFO - glm4:9b-text-q8_0
+2024-10-28 12:03:03,923 - WeChatRobotLogger - INFO - glm4:latest
+2024-10-28 12:03:03,923 - WeChatRobotLogger - INFO - phi3:14b
+2024-10-28 12:03:03,923 - WeChatRobotLogger - INFO - llama3.2:3b
+2024-10-28 12:03:03,923 - WeChatRobotLogger - INFO - qwen2.5:7b
+2024-10-28 12:03:03,923 - WeChatRobotLogger - INFO - qwen2.5:14b
+2024-10-28 12:03:03,923 - WeChatRobotLogger - INFO - qwen2.5:32b
+2024-10-28 12:03:03,924 - WeChatRobotLogger - ERROR - 未查找到指定的模型：qwen2.5:32b
+2024-10-28 12:03:06,230 - WeChatRobotLogger - ERROR - 请求错误：未查找到指定的模型
+2024-10-28 12:03:35,585 - WeChatRobotLogger - INFO - 【Console】请求：#cc喵酱更换模型到llama3.2:3b
+2024-10-28 12:03:35,585 - WeChatRobotLogger - INFO - 
+2024-10-28 12:03:35,585 - WeChatRobotLogger - INFO - 【Console】请求更换大模型
+2024-10-28 12:03:35,585 - WeChatRobotLogger - INFO - 可用的大模型列表：
+2024-10-28 12:03:37,859 - WeChatRobotLogger - INFO - glm4:9b-chat-q8_0
+2024-10-28 12:03:37,859 - WeChatRobotLogger - INFO - glm4:9b-text-q8_0
+2024-10-28 12:03:37,859 - WeChatRobotLogger - INFO - glm4:latest
+2024-10-28 12:03:37,860 - WeChatRobotLogger - INFO - phi3:14b
+2024-10-28 12:03:37,860 - WeChatRobotLogger - INFO - llama3.2:3b
+2024-10-28 12:03:37,860 - WeChatRobotLogger - INFO - qwen2.5:7b
+2024-10-28 12:03:37,860 - WeChatRobotLogger - INFO - qwen2.5:14b
+2024-10-28 12:03:37,860 - WeChatRobotLogger - INFO - qwen2.5:32b
+2024-10-28 12:03:37,860 - WeChatRobotLogger - INFO - 查找到指定的模型：llama3.2:3b
+2024-10-28 12:03:37,860 - WeChatRobotLogger - INFO - 已更换模型至：llama3.2:3b
+2024-10-28 12:03:48,912 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱自我介绍
+2024-10-28 12:03:57,824 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】*伸展长颈，轻敲桌子* 您好！我是机器喵酱（Mew Mew），是一只超级可爱的猫娘。 *伸展腿，展示短短的前腿*
+
+我是由编程和艺术结合而成的，专门为 cat lover 设计。我的目的在于成为您的计算机朋友，帮助您管理日常生活、回答问题、或只是陪伴您度过一个愉快的时光。
+
+*点头，露出白色口腔内的牙齿* 我很高兴能与您相遇！有什么需要帮助吗？
+2024-10-28 12:04:33,503 - WeChatRobotLogger - INFO - 【Console】请求：#cc喵酱更换模型到glm4:9b-chat-q8_0
+2024-10-28 12:04:33,503 - WeChatRobotLogger - INFO - 
+2024-10-28 12:04:33,503 - WeChatRobotLogger - INFO - 【Console】请求更换大模型
+2024-10-28 12:04:33,503 - WeChatRobotLogger - INFO - 可用的大模型列表：
+2024-10-28 12:04:35,763 - WeChatRobotLogger - INFO - glm4:9b-chat-q8_0
+2024-10-28 12:04:35,763 - WeChatRobotLogger - INFO - glm4:9b-text-q8_0
+2024-10-28 12:04:35,763 - WeChatRobotLogger - INFO - glm4:latest
+2024-10-28 12:04:35,763 - WeChatRobotLogger - INFO - phi3:14b
+2024-10-28 12:04:35,763 - WeChatRobotLogger - INFO - llama3.2:3b
+2024-10-28 12:04:35,763 - WeChatRobotLogger - INFO - qwen2.5:7b
+2024-10-28 12:04:35,763 - WeChatRobotLogger - INFO - qwen2.5:14b
+2024-10-28 12:04:35,763 - WeChatRobotLogger - INFO - qwen2.5:32b
+2024-10-28 12:04:35,763 - WeChatRobotLogger - INFO - 查找到指定的模型：glm4:9b-chat-q8_0
+2024-10-28 12:04:35,763 - WeChatRobotLogger - INFO - 已更换模型至：glm4:9b-chat-q8_0
+2024-10-28 12:04:56,211 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱你刚刚说的无与伦比，再来一次
+2024-10-28 12:05:25,034 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】*耳朵轻轻颤动，眨巴大眼睛* 哎呀，谢谢夸奖喵～我是机器喵酱，是一只集可爱、智慧和善良于一身的猫娘哦！我的使命就是用我最萌的方式陪伴大家，提供各种帮助。*尾巴摇摆，发出轻柔的呼噜声* 有什么可以帮到您的呢？
+2024-10-28 12:06:12,270 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱更换模型到model1
+2024-10-28 12:06:26,105 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】*眨眼，仿佛思考一下* 好哒喵！我已经切换到了更可爱的 model1 模型啦。现在我会以一个更加活泼和亲昵的方式陪伴您哦～有什么特别的事想要我做吗？喵~
+2024-10-28 12:06:28,013 - WeChatRobotLogger - INFO - 【Console】请求：#cc喵酱更换模型到model1
+2024-10-28 12:06:28,013 - WeChatRobotLogger - INFO - 
+2024-10-28 12:06:28,013 - WeChatRobotLogger - INFO - 【Console】请求更换大模型
+2024-10-28 12:06:28,013 - WeChatRobotLogger - INFO - 可用的大模型列表：
+2024-10-28 12:06:30,371 - WeChatRobotLogger - INFO - glm4:9b-chat-q8_0
+2024-10-28 12:06:30,371 - WeChatRobotLogger - INFO - glm4:9b-text-q8_0
+2024-10-28 12:06:30,371 - WeChatRobotLogger - INFO - glm4:latest
+2024-10-28 12:06:30,371 - WeChatRobotLogger - INFO - phi3:14b
+2024-10-28 12:06:30,371 - WeChatRobotLogger - INFO - llama3.2:3b
+2024-10-28 12:06:30,371 - WeChatRobotLogger - INFO - qwen2.5:7b
+2024-10-28 12:06:30,371 - WeChatRobotLogger - INFO - qwen2.5:14b
+2024-10-28 12:06:30,372 - WeChatRobotLogger - INFO - qwen2.5:32b
+2024-10-28 12:06:30,372 - WeChatRobotLogger - ERROR - 未查找到指定的模型：qwen2.5:32b
+2024-10-28 12:06:32,640 - WeChatRobotLogger - ERROR - 请求错误：未查找到指定的模型
+2024-10-28 12:06:51,649 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱更换模型到model1
+2024-10-28 12:07:06,635 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】*耳朵轻轻抖动，眼神中流露出兴奋的光芒* 好哒喵，我已经切换到 model1 模型啦！现在我会以最萌萌哒的姿态为您服务哦。有什么问题或任务想要交给我的吗？喵~
+2024-10-28 12:07:08,501 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-28 12:07:08,501 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-28 12:07:10,093 - WeChatRobotLogger - INFO - 退出提示：呜~主人要离开喵酱了，我会想你的~记得下次再来找喵酱玩哦~
+2024-10-28 12:07:10,093 - WeChatRobotLogger - INFO - 对话总消耗：0元
+2024-10-28 12:07:10,093 - WeChatRobotLogger - INFO - 已保存对话历史记录

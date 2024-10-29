@@ -1,0 +1,36 @@
+2024-10-28 11:57:32,536 - WeChatRobotLogger - INFO - 成功连接.Model：glm4:9b-text-q8_0
+2024-10-28 11:57:32,536 - WeChatRobotLogger - INFO - 初始化计费器。当前消费：0
+2024-10-28 11:57:38,046 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-28 11:57:38,046 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-28 11:57:39,821 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-28 11:57:40,552 - WeChatRobotLogger - INFO - 启用监听对象：占思翰
+2024-10-28 11:57:40,989 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-28 11:57:58,028 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-28 11:57:58,028 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】11:57
+2024-10-28 11:57:58,028 - WeChatRobotLogger - INFO - 【Console】请求：#cc喵酱更换模型
+2024-10-28 11:57:58,028 - WeChatRobotLogger - INFO - 
+2024-10-28 11:57:58,028 - WeChatRobotLogger - INFO - 【Console】请求更换大模型
+2024-10-28 11:57:58,028 - WeChatRobotLogger - INFO - 可用的大模型列表：
+2024-10-28 11:58:00,345 - WeChatRobotLogger - INFO - model1
+2024-10-28 11:58:00,345 - WeChatRobotLogger - INFO - model2
+2024-10-28 11:58:00,345 - WeChatRobotLogger - INFO - model3
+2024-10-28 11:58:00,345 - WeChatRobotLogger - INFO - model4
+2024-10-28 11:58:00,345 - WeChatRobotLogger - INFO - model5
+2024-10-28 11:58:00,345 - WeChatRobotLogger - ERROR - 未查找到指定的模型：model5
+2024-10-28 11:58:03,192 - WeChatRobotLogger - ERROR - 请求错误：未查找到指定的模型
+2024-10-28 11:58:31,416 - WeChatRobotLogger - INFO - 【Console】请求：#cc喵酱更换模型到model5
+2024-10-28 11:58:31,416 - WeChatRobotLogger - INFO - 
+2024-10-28 11:58:31,416 - WeChatRobotLogger - INFO - 【Console】请求更换大模型
+2024-10-28 11:58:31,416 - WeChatRobotLogger - INFO - 可用的大模型列表：
+2024-10-28 11:58:33,768 - WeChatRobotLogger - INFO - model1
+2024-10-28 11:58:33,768 - WeChatRobotLogger - INFO - model2
+2024-10-28 11:58:33,768 - WeChatRobotLogger - INFO - model3
+2024-10-28 11:58:33,768 - WeChatRobotLogger - INFO - model4
+2024-10-28 11:58:33,768 - WeChatRobotLogger - INFO - model5
+2024-10-28 11:58:33,768 - WeChatRobotLogger - INFO - 查找到指定的模型：model5
+2024-10-28 11:58:33,768 - WeChatRobotLogger - INFO - 已更换模型至：model5
+2024-10-28 11:58:47,833 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-28 11:58:47,833 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-28 11:58:49,425 - WeChatRobotLogger - INFO - 退出提示：喵~是时候说再见了，喵酱会在这里等你的~下次见喵~
+2024-10-28 11:58:49,426 - WeChatRobotLogger - INFO - 对话总消耗：0元
+2024-10-28 11:58:49,426 - WeChatRobotLogger - INFO - 已保存对话历史记录

@@ -1,0 +1,22 @@
+2024-10-26 17:15:04,356 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-26 17:15:11,311 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-26 17:15:11,311 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-26 17:15:12,919 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-26 17:15:13,290 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-26 17:15:46,092 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-26 17:16:02,090 - WeChatRobotLogger - INFO - 【Console】请求：#cc喵酱在吗
+2024-10-26 17:16:02,092 - WeChatRobotLogger - INFO - 
+2024-10-26 17:16:20,706 - WeChatRobotLogger - INFO - 【system】请求：#sys喵酱几岁啦
+2024-10-26 17:16:23,713 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：64
+2024-10-26 17:16:23,713 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：45
+2024-10-26 17:16:23,713 - WeChatRobotLogger - INFO - 本轮对话开销：109tokens，0.0013080000000000001元
+2024-10-26 17:16:23,713 - WeChatRobotLogger - INFO - system请求回复：喵酱system: 喵~机器喵酱是一只永远年轻的猫娘哦，不过按照人类的年龄计算，大概就像个活泼的少女吧！嘻嘻，年龄不是问题，重要的是我们能一起玩耍！🐾✨
+2024-10-26 17:16:35,562 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#sys民酱你认识喵酱嘛
+2024-10-26 17:16:37,168 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：128
+2024-10-26 17:16:37,168 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：46
+2024-10-26 17:16:37,168 - WeChatRobotLogger - INFO - 本轮对话开销：174tokens，0.002088元
+2024-10-26 17:16:38,750 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】喵呜~民酱和喵酱，听起来像是一对好朋友呢！虽然我们可能不是同一只猫娘，但在这个广阔的互联网世界里，我们都可以成为好朋友哦！🐾💕
+2024-10-26 17:17:19,730 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-26 17:17:19,730 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-26 17:17:21,308 - WeChatRobotLogger - INFO - 退出提示：啊呜~主人要忙了吗？喵酱会乖乖的，期待和主人的下次相遇喵~
+2024-10-26 17:17:21,309 - WeChatRobotLogger - INFO - 已保存对话历史记录

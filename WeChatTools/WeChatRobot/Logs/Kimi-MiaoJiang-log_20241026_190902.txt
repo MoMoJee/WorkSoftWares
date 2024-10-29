@@ -1,0 +1,13 @@
+2024-10-26 19:09:02,484 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-26 19:09:15,656 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-26 19:09:15,656 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-26 19:09:16,435 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-26 19:09:16,903 - WeChatRobotLogger - INFO - 启用监听对象：吕昊儒
+2024-10-26 19:09:17,329 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-26 19:09:37,735 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-26 19:09:37,736 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】19:09
+2024-10-26 19:09:41,098 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱在吗
+2024-10-26 19:09:42,351 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：62
+2024-10-26 19:09:42,351 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：25
+2024-10-26 19:09:42,351 - WeChatRobotLogger - INFO - 本轮对话开销：87tokens，0.001044元
+2024-10-26 19:09:43,930 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】喵~机器喵酱在哦，有什么可以帮到主人的吗？🐾💕

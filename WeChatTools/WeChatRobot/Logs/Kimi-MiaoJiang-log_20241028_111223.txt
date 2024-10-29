@@ -1,0 +1,19 @@
+2024-10-28 11:12:23,691 - WeChatRobotLogger - INFO - 成功连接.Model：glm4:9b-text-q8_0
+2024-10-28 11:12:23,691 - WeChatRobotLogger - INFO - 初始化计费器。当前消费：0
+2024-10-28 11:12:28,793 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-28 11:12:28,797 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-28 11:12:30,874 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-28 11:12:36,256 - WeChatRobotLogger - INFO - 启用监听对象：占思翰
+2024-10-28 11:12:41,257 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-28 11:12:45,929 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-28 11:12:45,929 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】昨天 13:28
+2024-10-28 11:12:45,929 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】昨天 13:48
+2024-10-28 11:12:45,930 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#sys 喵酱，说话不要带这么多冒号
+2024-10-28 11:12:45,932 - WeChatRobotLogger - ERROR - [WinError 10049] 在其上下文中，该请求的地址无效。
+2024-10-28 11:12:48,089 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了
+2024-10-28 11:12:48,090 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】昨天 13:54
+2024-10-28 11:12:48,090 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-28 11:12:48,090 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-28 11:12:49,681 - WeChatRobotLogger - INFO - 退出提示：喵喵~主人要休息了吗？喵酱也要好好休息，下次再见要更加精神哦~
+2024-10-28 11:12:49,682 - WeChatRobotLogger - INFO - 对话总消耗：0元
+2024-10-28 11:12:49,683 - WeChatRobotLogger - INFO - 已保存对话历史记录

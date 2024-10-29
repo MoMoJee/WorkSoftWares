@@ -1,0 +1,4 @@
+2024-10-25 21:51:38,200 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-25 21:51:55,355 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-25 21:51:55,356 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-25 21:51:56,584 - WeChatRobotLogger - INFO - 微信接入成功

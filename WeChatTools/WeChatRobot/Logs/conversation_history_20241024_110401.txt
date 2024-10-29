@@ -1,0 +1,15 @@
+2024-10-24 11:04:01,865 - WeChatRobotLogger - INFO - 成功链接API
+2024-10-24 11:04:01,865 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-24 11:04:03,031 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-24 11:04:03,355 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-24 11:04:23,944 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-24 11:04:23,944 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】11:04
+2024-10-24 11:04:23,944 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱在吗
+2024-10-24 11:04:24,118 - WeChatRobotLogger - ERROR - Error code: 401 - {'error': {'message': 'Invalid Authentication', 'type': 'invalid_authentication_error'}}
+2024-10-24 11:04:25,734 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】鉴权失败，请检查 API key 是否正确。
+2024-10-24 11:04:30,925 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱几岁了
+2024-10-24 11:04:31,040 - WeChatRobotLogger - ERROR - Error code: 401 - {'error': {'message': 'Invalid Authentication', 'type': 'invalid_authentication_error'}}
+2024-10-24 11:04:32,676 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】鉴权失败，请检查 API key 是否正确。
+2024-10-24 11:05:10,940 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-24 11:05:10,940 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-24 11:05:12,554 - WeChatRobotLogger - INFO - 退出提示：喵~时间过得真快，主人要离开了，喵酱会一直在这里，期待你的再次召唤~

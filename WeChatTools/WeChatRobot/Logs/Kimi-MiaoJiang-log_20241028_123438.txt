@@ -1,0 +1,23 @@
+2024-10-28 12:34:38,724 - WeChatRobotLogger - INFO - 成功连接.Model：llama3.2:3b
+2024-10-28 12:34:38,724 - WeChatRobotLogger - INFO - 初始化计费器。当前消费：0
+2024-10-28 12:34:49,900 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-28 12:34:49,900 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-28 12:34:50,773 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-28 12:34:53,908 - WeChatRobotLogger - INFO - 启用监听对象：五号楼花果山
+2024-10-28 12:34:54,259 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-28 12:35:00,770 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-28 12:35:00,770 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】12:34
+2024-10-28 12:35:00,771 - WeChatRobotLogger - INFO - 【Console】请求：#cc喵酱更换模型到glm4:9b-chat-q8_0
+2024-10-28 12:35:00,771 - WeChatRobotLogger - INFO - 
+2024-10-28 12:35:00,771 - WeChatRobotLogger - INFO - 【Console】请求更换大模型
+2024-10-28 12:35:00,771 - WeChatRobotLogger - INFO - 可用的大模型列表：
+2024-10-28 12:35:03,041 - WeChatRobotLogger - INFO - glm4:9b-chat-q8_0
+2024-10-28 12:35:03,041 - WeChatRobotLogger - INFO - glm4:9b-text-q8_0
+2024-10-28 12:35:03,041 - WeChatRobotLogger - INFO - glm4:latest
+2024-10-28 12:35:03,041 - WeChatRobotLogger - INFO - phi3:14b
+2024-10-28 12:35:03,041 - WeChatRobotLogger - INFO - llama3.2:3b
+2024-10-28 12:35:03,041 - WeChatRobotLogger - INFO - qwen2.5:7b
+2024-10-28 12:35:03,041 - WeChatRobotLogger - INFO - qwen2.5:14b
+2024-10-28 12:35:03,041 - WeChatRobotLogger - INFO - qwen2.5:32b
+2024-10-28 12:35:03,041 - WeChatRobotLogger - INFO - 查找到指定的模型：glm4:9b-chat-q8_0
+2024-10-28 12:35:03,041 - WeChatRobotLogger - INFO - 已更换模型至：glm4:9b-chat-q8_0

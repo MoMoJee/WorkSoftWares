@@ -1,0 +1,4 @@
+2024-10-25 10:52:12,610 - WeChatRobotLogger - INFO - 成功连接
+2024-10-25 10:52:17,886 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-25 10:52:17,886 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-25 10:52:19,223 - WeChatRobotLogger - INFO - 微信接入成功

@@ -1,0 +1,20 @@
+2024-10-27 10:55:56,712 - WeChatRobotLogger - INFO - 成功连接.Model：qwen2.5:14b
+2024-10-27 10:55:56,713 - WeChatRobotLogger - INFO - 初始化计费器。当前消费：0
+2024-10-27 10:56:01,487 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-27 10:56:01,487 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-27 10:56:02,338 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-27 10:56:03,485 - WeChatRobotLogger - INFO - 启用监听对象：郑梓欣
+2024-10-27 10:56:03,921 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-27 10:56:29,946 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-27 10:56:29,948 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】10:56
+2024-10-27 10:56:29,948 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱你好
+2024-10-27 10:56:30,046 - WeChatRobotLogger - ERROR - model requires more system memory (8.8 GiB) than is available (7.6 GiB)
+2024-10-27 10:56:32,198 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了
+2024-10-27 10:59:51,591 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱你好
+2024-10-27 11:00:12,295 - WeChatRobotLogger - ERROR - 'dict' object has no attribute 'message'
+2024-10-27 11:00:13,876 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了
+2024-10-27 11:01:48,980 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-27 11:01:48,980 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-27 11:01:50,563 - WeChatRobotLogger - INFO - 退出提示：喵喵~主人要休息了吗？喵酱也要好好休息，下次再见要更加精神哦~
+2024-10-27 11:01:50,563 - WeChatRobotLogger - INFO - 对话总消耗：0元
+2024-10-27 11:01:50,563 - WeChatRobotLogger - INFO - 已保存对话历史记录

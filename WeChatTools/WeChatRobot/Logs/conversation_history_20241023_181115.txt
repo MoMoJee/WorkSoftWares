@@ -1,0 +1,6 @@
+2024-10-23 18:11:27,967 - WeChatRobotLogger - INFO - 接收到主人新消息                Self：#喵酱几岁啦
+2024-10-23 18:11:29,618 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：63
+2024-10-23 18:11:31,235 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】喵～机器喵酱是永远的18岁哦！虽然我是AI，但我会一直保持年轻和活力，陪伴你度过每一天喵～🐾✨
+2024-10-23 18:11:44,273 - WeChatRobotLogger - INFO - 接收到主人新消息                Self：#喵酱贴贴
+2024-10-23 18:11:45,498 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：114
+2024-10-23 18:11:47,123 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了

@@ -1,0 +1,12 @@
+2024-10-26 13:53:00,544 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-26 13:53:04,103 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-26 13:53:04,104 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-26 13:53:05,000 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-26 13:53:06,087 - WeChatRobotLogger - INFO - 启用监听对象：五号楼花果山
+2024-10-26 13:53:06,697 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-26 13:53:15,557 - WeChatRobotLogger - INFO - AI民酱机器人启动！注意以下所有的【民酱】发言都源自AI大模型，不代表本人观点，和中央民族大学无关，请谨慎识别！
+2024-10-26 13:53:15,559 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 13:53:15,559 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5206统计王彦淇：打不开了？
+引用 5407电子信息杨超 的消息 : [图片]
+2024-10-26 13:53:17,438 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】廾匸：柜子打不开了
+2024-10-26 13:53:19,294 - WeChatRobotLogger - INFO - 【Console】请求：#cc

@@ -1,0 +1,30 @@
+2024-10-26 19:12:49,667 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-26 19:12:58,993 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-26 19:12:58,993 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-26 19:12:59,777 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-26 19:13:00,490 - WeChatRobotLogger - INFO - 启用监听对象：五号楼花果山
+2024-10-26 19:13:00,886 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-26 19:13:05,716 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-26 19:13:05,717 - WeChatRobotLogger - WARNING - 接收到不来自控制台的控制台消息：                Self：#cc喵酱在吗
+2024-10-26 19:13:07,586 - WeChatRobotLogger - WARNING - 接收到不来自控制台的控制台消息：                Self：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-26 19:13:44,396 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 19:13:44,396 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】SocalledLeila：喵酱好久不见
+2024-10-26 19:13:44,396 - WeChatRobotLogger - INFO - 接收到关键词SocalledLeila：喵酱好久不见
+2024-10-26 19:13:46,766 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：64
+2024-10-26 19:13:46,766 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：34
+2024-10-26 19:13:46,767 - WeChatRobotLogger - INFO - 本轮对话开销：98tokens，0.001176元
+2024-10-26 19:13:48,343 - WeChatRobotLogger - INFO - 回复：【喵酱】喵～Leila，喵酱也想你了呢！最近过得怎么样？有没有什么新鲜事要和喵酱分享的？🐾💕
+2024-10-26 19:13:50,175 - WeChatRobotLogger - WARNING - 接收到不来自控制台的控制台消息：                Self：【喵酱】喵～Leila，喵酱也想你了呢！最近过得怎么样？有没有什么新鲜事要和喵酱分享的？🐾💕
+2024-10-26 19:13:50,175 - WeChatRobotLogger - WARNING - 接收到不来自控制台的控制台消息：                Self：喵酱@@退出
+2024-10-26 19:13:53,813 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】我是小天才：喵酱
+2024-10-26 19:13:53,814 - WeChatRobotLogger - INFO - 接收到关键词我是小天才：喵酱
+2024-10-26 19:13:55,481 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：112
+2024-10-26 19:13:55,481 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：26
+2024-10-26 19:13:55,481 - WeChatRobotLogger - INFO - 本轮对话开销：138tokens，0.001656元
+2024-10-26 19:13:57,058 - WeChatRobotLogger - INFO - 回复：【喵酱】喵喵～小天才，喵酱在这儿！有什么可以帮到天才的你呢？😺✨
+2024-10-26 19:13:58,861 - WeChatRobotLogger - WARNING - 接收到不来自控制台的控制台消息：                Self：【喵酱】喵喵～小天才，喵酱在这儿！有什么可以帮到天才的你呢？😺✨
+2024-10-26 19:14:02,631 - WeChatRobotLogger - WARNING - 接收到不来自控制台的控制台消息：                Self：不听我话
+2024-10-26 19:14:06,232 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-26 19:14:06,232 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-26 19:14:08,135 - WeChatRobotLogger - INFO - 退出提示：喵~时间过得真快，主人要离开了，喵酱会一直在这里，期待你的再次召唤~
+2024-10-26 19:14:08,136 - WeChatRobotLogger - INFO - 已保存对话历史记录

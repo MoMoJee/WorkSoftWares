@@ -1,0 +1,30 @@
+2024-10-25 17:07:32,507 - WeChatRobotLogger - INFO - 成功连接
+2024-10-25 17:07:37,625 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-25 17:07:37,625 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-25 17:07:39,033 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-25 17:07:46,763 - WeChatRobotLogger - INFO - 启用监听对象：五号楼花果山
+2024-10-25 17:08:08,233 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-25 17:08:25,554 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】丁福兴：你在干什么
+引用 庞罗泽姻世伯（爸的哥的老婆的弟弟 的消息 : [动画表情]
+2024-10-25 17:08:33,847 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5501电信李润吉：@你群正义史官 在哪
+2024-10-25 17:08:36,980 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-25 17:08:36,981 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】丁福兴：喵酱
+2024-10-25 17:08:36,981 - WeChatRobotLogger - INFO - 接收到关键词丁福兴：喵酱
+2024-10-25 17:08:38,963 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5144
+2024-10-25 17:08:40,548 - WeChatRobotLogger - INFO - 回复：【喵酱】                牢丁，玩游戏不？原神更新了。
+2024-10-25 17:08:43,698 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】醉烟云：在寝室
+2024-10-25 17:08:46,926 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱，给大家打招呼
+2024-10-25 17:08:51,055 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5173
+2024-10-25 17:08:52,643 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】                嘿大家好，都来跟牢李一起玩游戏啊！微信小游戏也不错，改天一起月抛。别忘了原神今儿更新了，好寄吧期待！困了？那就睡大觉去！困觉真是无敌了。嗯，上学的弟弟那就让他多看书，睡觉！
+2024-10-25 17:08:54,208 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-25 17:08:54,208 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5501电信李润吉：@5435电子信息类丁福兴 在哪
+2024-10-25 17:08:54,208 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】丁福兴：原神是什么
+引用 庞罗泽姻世伯（爸的哥的老婆的弟弟 的消息 : 【喵酱】                牢丁，玩游戏不？原神更新了。
+2024-10-25 17:08:54,208 - WeChatRobotLogger - INFO - 接收到关键词丁福兴：原神是什么
+引用 庞罗泽姻世伯（爸的哥的老婆的弟弟 的消息 : 【喵酱】                牢丁，玩游戏不？原神更新了。
+2024-10-25 17:08:58,355 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5290
+2024-10-25 17:08:59,944 - WeChatRobotLogger - INFO - 回复：【喵酱】                原神啊，牢丁，就是个网游，画面挺好看，剧情也够意思，你试试就知道了。这不刚更新了，正好拿来消遣消遣。鹿🦌运动休闲时那就月抛🈷️一下，嘿嘿。别老窝家里，外面走走也是好的。无敌了。
+2024-10-25 17:09:02,961 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-25 17:09:02,961 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-25 17:09:04,548 - WeChatRobotLogger - INFO - 退出提示：啊呜~主人要忙了吗？喵酱会乖乖的，期待和主人的下次相遇喵~
+2024-10-25 17:09:04,549 - WeChatRobotLogger - INFO - 已保存对话历史记录

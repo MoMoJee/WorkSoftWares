@@ -1,0 +1,11 @@
+2024-10-27 00:51:44,609 - WeChatRobotLogger - INFO - 成功连接.Model：llama3.2:3b
+2024-10-27 00:51:44,609 - WeChatRobotLogger - INFO - 初始化计费器。当前消费：0
+2024-10-27 00:51:49,589 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-27 00:51:49,590 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-27 00:51:50,382 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-27 00:51:51,412 - WeChatRobotLogger - INFO - 启用监听对象：郑梓欣
+2024-10-27 00:51:51,820 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-27 00:51:57,321 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-27 00:51:57,323 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱你好
+2024-10-27 00:51:58,213 - WeChatRobotLogger - ERROR - 'dict' object has no attribute 'choices'
+2024-10-27 00:51:59,791 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了

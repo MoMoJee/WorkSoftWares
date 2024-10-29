@@ -1,0 +1,11 @@
+2024-10-26 00:51:01,829 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-26 00:51:09,572 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-26 00:51:09,572 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-26 00:51:10,433 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-26 00:51:10,874 - WeChatRobotLogger - INFO - 启用监听对象：五号楼花果山
+2024-10-26 00:51:11,303 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-26 00:51:33,551 - WeChatRobotLogger - INFO - AI民酱机器人启动！注意以下所有的【民酱】发言都源自AI大模型，不代表本人观点，和中央民族大学无关，请谨慎识别！
+2024-10-26 00:51:33,553 - WeChatRobotLogger - INFO - 【Console】请求：#cc余额查询
+2024-10-26 00:51:33,553 - WeChatRobotLogger - INFO - 
+2024-10-26 00:51:33,553 - WeChatRobotLogger - INFO - 【Console】请求余额查询
+2024-10-26 00:51:33,553 - WeChatRobotLogger - INFO - API余额查询连接成功

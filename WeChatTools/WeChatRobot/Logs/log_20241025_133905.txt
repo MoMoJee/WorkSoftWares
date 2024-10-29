@@ -1,0 +1,69 @@
+2024-10-25 13:39:05,269 - WeChatRobotLogger - INFO - 成功连接
+2024-10-25 13:39:12,789 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-25 13:39:12,789 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-25 13:39:13,628 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-25 13:39:14,273 - WeChatRobotLogger - INFO - 启用监听对象：青苗🌱
+2024-10-25 13:39:14,792 - WeChatRobotLogger - INFO - 启用监听对象：五号楼花果山
+2024-10-25 13:39:20,042 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-25 13:39:34,331 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱
+2024-10-25 13:39:36,844 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5143
+2024-10-25 13:39:38,785 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】                                                       牢Self，玩游戏不？原神挺好玩的。
+
+这样模仿林蒙力同学的口吻，有没有更接近一点呢？*/ω\*~
+2024-10-25 13:39:46,904 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-25 13:39:46,904 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计二班李昊阳：哈哈
+2024-10-25 13:39:55,036 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】文文要减肥🥳：？
+引用 庞罗泽姻世伯（爸的哥的老婆的弟弟 的消息 : 【喵酱】                                                       牢Self，玩游戏不？原神挺好玩的。
+
+这样模仿林蒙力同学的口吻，有没有更接近一点呢？*/ω\*~
+2024-10-25 13:39:55,036 - WeChatRobotLogger - INFO - 接收到关键词文文要减肥🥳：？
+引用 庞罗泽姻世伯（爸的哥的老婆的弟弟 的消息 : 【喵酱】                                                       牢Self，玩游戏不？原神挺好玩的。
+
+这样模仿林蒙力同学的口吻，有没有更接近一点呢？*/ω\*~
+2024-10-25 13:39:57,604 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5255
+2024-10-25 13:39:59,196 - WeChatRobotLogger - INFO - 回复：【喵酱】                                                        牢文文，减肥啊？月抛挺有用的。
+
+这样模仿林蒙力同学的口吻，有没有更接近一点呢？*/ω\*~
+2024-10-25 13:40:03,440 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计二班李昊阳：喵酱评价林蒙力
+2024-10-25 13:40:03,440 - WeChatRobotLogger - INFO - 接收到关键词24信计二班李昊阳：喵酱评价林蒙力
+2024-10-25 13:40:04,643 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5314
+2024-10-25 13:40:06,234 - WeChatRobotLogger - INFO - 回复：【喵酱】林蒙力，太好了，是微信小游戏我们有救了。
+2024-10-25 13:40:08,319 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计二班李昊阳：哈哈哈
+2024-10-25 13:40:32,588 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-25 13:40:32,588 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计二班李昊阳：@5510计算机蔡佳文🥳 月抛有用
+2024-10-25 13:40:38,643 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】文文要减肥🥳：？
+引用 庞罗泽姻世伯（爸的哥的老婆的弟弟 的消息 : 【喵酱】                                                        牢文文，减肥啊？月抛挺有用的。
+
+这样模仿林蒙力同学的口吻，有没有更接近一点呢？*/ω\*~
+2024-10-25 13:40:38,643 - WeChatRobotLogger - INFO - 接收到关键词文文要减肥🥳：？
+引用 庞罗泽姻世伯（爸的哥的老婆的弟弟 的消息 : 【喵酱】                                                        牢文文，减肥啊？月抛挺有用的。
+
+这样模仿林蒙力同学的口吻，有没有更接近一点呢？*/ω\*~
+2024-10-25 13:40:40,211 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5407
+2024-10-25 13:40:41,797 - WeChatRobotLogger - INFO - 回复：【喵酱】 牢文文，减肥？睡觉也很重要。
+2024-10-25 13:40:49,915 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-25 13:40:49,915 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计二班李昊阳：1
+2024-10-25 13:40:56,050 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】文文要减肥🥳：？
+引用 庞罗泽姻世伯（爸的哥的老婆的弟弟 的消息 : 【喵酱】 牢文文，减肥？睡觉也很重要。
+2024-10-25 13:40:56,050 - WeChatRobotLogger - INFO - 接收到关键词文文要减肥🥳：？
+引用 庞罗泽姻世伯（爸的哥的老婆的弟弟 的消息 : 【喵酱】 牢文文，减肥？睡觉也很重要。
+2024-10-25 13:40:57,123 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5473
+2024-10-25 13:40:59,269 - WeChatRobotLogger - INFO - 回复：【喵酱】  牢文文，减肥？睡觉也很重要。
+2024-10-25 13:41:01,312 - WeChatRobotLogger - INFO - 【system】请求：#sys 喵酱，幽默
+2024-10-25 13:41:02,507 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5502
+2024-10-25 13:41:02,507 - WeChatRobotLogger - INFO - system请求回复：喵酱system:    牢Self，幽默啊？无敌了，是笑话我们有救了。
+2024-10-25 13:41:10,376 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-25 13:41:10,376 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计二班李昊阳：哈哈哈
+2024-10-25 13:41:14,483 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计二班李昊阳：无敌了这个版本
+2024-10-25 13:41:16,552 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】文文要减肥🥳：喵酱怎么了这是
+2024-10-25 13:41:16,553 - WeChatRobotLogger - INFO - 接收到关键词文文要减肥🥳：喵酱怎么了这是
+2024-10-25 13:41:17,751 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5540
+2024-10-25 13:41:19,344 - WeChatRobotLogger - INFO - 回复：【喵酱】    牢文文，没事，就是困了，睡觉去了。
+2024-10-25 13:41:27,416 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-25 13:41:27,416 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】文文要减肥🥳：？
+2024-10-25 13:41:29,503 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】文文要减肥🥳：我靠
+2024-10-25 13:41:29,503 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计二班李昊阳：哈哈哈
+2024-10-25 13:41:29,503 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-25 13:41:29,503 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-25 13:41:31,086 - WeChatRobotLogger - INFO - 退出提示：喵~是时候说再见了，喵酱会在这里等你的~下次见喵~
+2024-10-25 13:41:31,087 - WeChatRobotLogger - INFO - 已保存对话历史记录

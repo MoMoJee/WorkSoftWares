@@ -1,0 +1,17 @@
+2024-10-27 00:47:51,946 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-27 00:47:51,947 - WeChatRobotLogger - INFO - 初始化计费器。当前消费：0
+2024-10-27 00:47:57,701 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-27 00:47:57,701 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-27 00:47:59,410 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-27 00:48:02,603 - WeChatRobotLogger - INFO - 启用监听对象：郑梓欣
+2024-10-27 00:48:03,074 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-27 00:48:19,556 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-27 00:48:19,556 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】0:48
+2024-10-27 00:48:19,556 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱你好
+2024-10-27 00:48:19,557 - WeChatRobotLogger - ERROR - model "moonshot-v1-8k" not found, try pulling it first
+2024-10-27 00:48:21,136 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了
+2024-10-27 00:48:39,343 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-27 00:48:39,343 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-27 00:48:42,045 - WeChatRobotLogger - INFO - 退出提示：喵~是时候说再见了，喵酱会在这里等你的~下次见喵~
+2024-10-27 00:48:42,046 - WeChatRobotLogger - INFO - 对话总消耗：0元
+2024-10-27 00:48:42,046 - WeChatRobotLogger - INFO - 已保存对话历史记录

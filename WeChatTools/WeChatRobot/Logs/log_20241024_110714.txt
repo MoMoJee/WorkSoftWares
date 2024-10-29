@@ -1,0 +1,4 @@
+2024-10-24 11:07:14,552 - WeChatRobotLogger - INFO - 成功链接API
+2024-10-24 11:07:14,552 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-24 11:07:15,679 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-24 11:07:16,009 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手

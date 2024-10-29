@@ -1,0 +1,19 @@
+2024-10-25 19:49:32,008 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-25 19:49:39,740 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-25 19:49:39,741 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-25 19:49:41,479 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-25 19:49:56,491 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-25 19:50:00,475 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-25 19:50:00,477 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】10:53
+2024-10-25 19:50:00,477 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱启动
+2024-10-25 19:50:03,046 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5144
+2024-10-25 19:50:04,642 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】                微信小游戏挺有意思
+
+这样模仿林蒙力同学的口吻，有没有更接近一点呢？*/ω\*~
+2024-10-25 19:50:04,642 - WeChatRobotLogger - INFO - 接收到主人新消息Self：【喵酱】#喵酱启动中~ 喵~ 现在可以叫我机器喵酱，有什么我可以帮忙的吗？
+2024-10-25 19:50:06,529 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5210
+2024-10-25 19:50:08,686 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】                睡觉 睡觉
+
+这样模仿林蒙力同学的口吻，有没有更接近一点呢？*/ω\*~
+2024-10-25 19:50:08,686 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱几岁啦
+2024-10-25 19:50:10,322 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5254

@@ -1,0 +1,23 @@
+2024-10-27 13:24:05,340 - WeChatRobotLogger - INFO - 成功连接.Model：qwen2.5:14b
+2024-10-27 13:24:05,341 - WeChatRobotLogger - INFO - 初始化计费器。当前消费：0
+2024-10-27 13:24:12,522 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-27 13:24:12,522 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-27 13:24:13,449 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-27 13:24:16,287 - WeChatRobotLogger - INFO - 启用监听对象：五号楼花果山
+2024-10-27 13:24:18,597 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-27 13:24:23,138 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-27 13:24:23,138 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】洋洋de意＂：@九号楼键帽 cancanneed
+2024-10-27 13:24:23,138 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱你好
+2024-10-27 13:24:47,104 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】::::::太好了，你好。关于评价微信小游戏这件事，小游戏嘛，挺好玩的。
+2024-10-27 13:24:47,104 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱你好
+2024-10-27 13:25:00,223 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】::::::::嗨，Self！有什么问题或者需要帮助吗？
+2024-10-27 13:25:00,223 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】10:56
+2024-10-27 13:25:00,223 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱你好
+2024-10-27 13:25:16,295 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】:::::::你好！有什么可以帮助你的吗？如果有关于微信小游戏或者其他的问题，尽管告诉我哦。
+2024-10-27 13:25:16,295 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱你好
+2024-10-27 13:25:30,453 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】::::::::嗨，Self！今天过得怎么样了？需要帮忙吗？
+2024-10-27 13:25:30,453 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-27 13:25:30,453 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-27 13:25:32,036 - WeChatRobotLogger - INFO - 退出提示：喵喵~主人要休息了吗？喵酱也要好好休息，下次再见要更加精神哦~
+2024-10-27 13:25:32,045 - WeChatRobotLogger - INFO - 对话总消耗：0元
+2024-10-27 13:25:32,045 - WeChatRobotLogger - INFO - 已保存对话历史记录

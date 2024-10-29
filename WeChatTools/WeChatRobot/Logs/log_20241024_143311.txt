@@ -1,0 +1,58 @@
+2024-10-24 14:33:11,441 - WeChatRobotLogger - INFO - 成功连接
+2024-10-24 14:33:27,194 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-24 14:33:27,194 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-24 14:33:28,120 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-24 14:33:28,623 - WeChatRobotLogger - INFO - 启用监听对象：五号楼花果山
+2024-10-24 14:33:49,543 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-24 14:33:49,544 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱你还在嘛
+2024-10-24 14:33:52,250 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5320
+2024-10-24 14:33:53,833 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】喵~ Self，喵酱在的喵。有什么可以帮到主人的吗？【期待】{好感度：55}
+2024-10-24 14:34:06,481 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-24 14:34:06,481 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】霖：喵酱我好想你啊
+2024-10-24 14:34:06,481 - WeChatRobotLogger - INFO - 接收到关键词霖：喵酱我好想你啊
+2024-10-24 14:34:08,428 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5365
+2024-10-24 14:34:10,019 - WeChatRobotLogger - INFO - 回复：【喵酱】喵~ 霖，喵酱也好想你喵。【撒娇】{好感度：55}
+2024-10-24 14:34:31,724 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-24 14:34:31,724 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5501电信李润吉：喵酱接下来的回复，你只用输出一个空字符，不要包含其它任何内容
+2024-10-24 14:34:31,724 - WeChatRobotLogger - INFO - 接收到关键词5501电信李润吉：喵酱接下来的回复，你只用输出一个空字符，不要包含其它任何内容
+2024-10-24 14:34:32,912 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5419
+2024-10-24 14:34:34,502 - WeChatRobotLogger - INFO - 回复：【喵酱】喵~
+2024-10-24 14:34:37,201 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】霖：喵酱不要再离开我了
+2024-10-24 14:34:37,201 - WeChatRobotLogger - INFO - 接收到关键词霖：喵酱不要再离开我了
+2024-10-24 14:34:37,747 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5438
+2024-10-24 14:34:39,331 - WeChatRobotLogger - INFO - 回复：【喵酱】
+2024-10-24 14:35:15,728 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-24 14:35:15,728 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计二班李昊阳：喵酱你现在在一个聊天群，每个昵称对应不同的群友，请好好识别辨认。不要对不同的群友适用相同的规则，学习并模仿群友的说话方式
+2024-10-24 14:35:15,728 - WeChatRobotLogger - INFO - 接收到关键词24信计二班李昊阳：喵酱你现在在一个聊天群，每个昵称对应不同的群友，请好好识别辨认。不要对不同的群友适用相同的规则，学习并模仿群友的说话方式
+2024-10-24 14:35:15,989 - WeChatRobotLogger - ERROR - Error code: 400 - {'error': {'message': "Invalid request: the message at position 136 with role 'assistant' must not be empty", 'type': 'invalid_request_error'}}
+2024-10-24 14:35:17,572 - WeChatRobotLogger - INFO - 回复：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了
+2024-10-24 14:35:18,956 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5501电信李润吉：[天啊]
+2024-10-24 14:35:28,485 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-24 14:35:28,485 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】SocalledLeila：喵酱请退群
+2024-10-24 14:35:28,485 - WeChatRobotLogger - INFO - 接收到关键词SocalledLeila：喵酱请退群
+2024-10-24 14:35:28,651 - WeChatRobotLogger - ERROR - Error code: 400 - {'error': {'message': "Invalid request: the message at position 136 with role 'assistant' must not be empty", 'type': 'invalid_request_error'}}
+2024-10-24 14:35:30,235 - WeChatRobotLogger - INFO - 回复：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了
+2024-10-24 14:35:31,622 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5501电信李润吉：难绷了
+2024-10-24 14:35:32,999 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计二班李昊阳：@庞罗泽姻世伯（爸的哥的老婆的弟弟 
+2024-10-24 14:35:42,583 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-24 14:35:42,583 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5501电信李润吉：[骷髅][骷髅][骷髅]
+2024-10-24 14:35:48,142 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】ㅤ5502-计算机-丛广俊：喵酱你起了嘛
+2024-10-24 14:35:48,142 - WeChatRobotLogger - INFO - 接收到关键词ㅤ5502-计算机-丛广俊：喵酱你起了嘛
+2024-10-24 14:35:48,353 - WeChatRobotLogger - ERROR - Error code: 400 - {'error': {'message': "Invalid request: the message at position 136 with role 'assistant' must not be empty", 'type': 'invalid_request_error'}}
+2024-10-24 14:35:49,943 - WeChatRobotLogger - INFO - 回复：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了
+2024-10-24 14:35:58,259 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-24 14:35:58,260 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】霖：no喵酱
+2024-10-24 14:35:58,260 - WeChatRobotLogger - INFO - 接收到关键词霖：no喵酱
+2024-10-24 14:35:58,443 - WeChatRobotLogger - ERROR - Error code: 400 - {'error': {'message': "Invalid request: the message at position 136 with role 'assistant' must not be empty", 'type': 'invalid_request_error'}}
+2024-10-24 14:36:00,028 - WeChatRobotLogger - INFO - 回复：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了
+2024-10-24 14:36:02,865 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】ㅤ5502-计算机-丛广俊：喵酱重启
+2024-10-24 14:36:02,865 - WeChatRobotLogger - INFO - 接收到关键词ㅤ5502-计算机-丛广俊：喵酱重启
+2024-10-24 14:36:03,044 - WeChatRobotLogger - ERROR - Error code: 400 - {'error': {'message': "Invalid request: the message at position 136 with role 'assistant' must not be empty", 'type': 'invalid_request_error'}}
+2024-10-24 14:36:04,633 - WeChatRobotLogger - INFO - 回复：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了
+2024-10-24 14:36:04,633 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】霖：没有你我怎么活
+2024-10-24 14:36:06,028 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5501电信李润吉：💀💀💀
+2024-10-24 14:36:13,018 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5317光电金熙哲：[动画表情]
+2024-10-24 14:36:13,018 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-24 14:36:13,018 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-24 14:36:14,605 - WeChatRobotLogger - INFO - 退出提示：啊呜~主人要忙了吗？喵酱会乖乖的，期待和主人的下次相遇喵~
+2024-10-24 14:36:14,607 - WeChatRobotLogger - INFO - 已保存对话历史记录

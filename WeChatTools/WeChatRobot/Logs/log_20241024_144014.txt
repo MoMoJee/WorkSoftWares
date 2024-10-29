@@ -1,0 +1,24 @@
+2024-10-24 14:40:14,335 - WeChatRobotLogger - INFO - 成功连接
+2024-10-24 14:40:25,119 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-24 14:40:25,120 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-24 14:40:25,971 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-24 14:40:26,474 - WeChatRobotLogger - INFO - 启用监听对象：五号楼花果山
+2024-10-24 14:40:33,240 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-24 14:40:33,240 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-24 14:40:33,242 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计二班李昊阳：喵酱你现在在一个聊天群，每个昵称对应不同的群友，请好好识别辨认。不要对不同的群友适用相同的规则，学习并模仿群友们的说话方式，与群友们好好相处
+2024-10-24 14:40:33,242 - WeChatRobotLogger - INFO - 接收到关键词24信计二班李昊阳：喵酱你现在在一个聊天群，每个昵称对应不同的群友，请好好识别辨认。不要对不同的群友适用相同的规则，学习并模仿群友们的说话方式，与群友们好好相处
+2024-10-24 14:40:33,580 - WeChatRobotLogger - ERROR - Error code: 400 - {'error': {'message': "Invalid request: the message at position 156 with role 'assistant' must not be empty", 'type': 'invalid_request_error'}}
+2024-10-24 14:40:35,170 - WeChatRobotLogger - INFO - 回复：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了
+2024-10-24 14:40:36,643 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】ㅤ5502-计算机-丛广俊：喵酱你在吗
+2024-10-24 14:40:36,643 - WeChatRobotLogger - INFO - 接收到关键词ㅤ5502-计算机-丛广俊：喵酱你在吗
+2024-10-24 14:40:36,773 - WeChatRobotLogger - ERROR - Error code: 400 - {'error': {'message': "Invalid request: the message at position 156 with role 'assistant' must not be empty", 'type': 'invalid_request_error'}}
+2024-10-24 14:40:38,362 - WeChatRobotLogger - INFO - 回复：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了
+2024-10-24 14:40:41,271 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计二班李昊阳：死了
+2024-10-24 14:40:44,178 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】ㅤ5502-计算机-丛广俊：喵酱你咋了
+2024-10-24 14:40:44,178 - WeChatRobotLogger - INFO - 接收到关键词ㅤ5502-计算机-丛广俊：喵酱你咋了
+2024-10-24 14:40:44,373 - WeChatRobotLogger - ERROR - Error code: 400 - {'error': {'message': "Invalid request: the message at position 156 with role 'assistant' must not be empty", 'type': 'invalid_request_error'}}
+2024-10-24 14:40:45,960 - WeChatRobotLogger - INFO - 回复：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了
+2024-10-24 14:40:47,416 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-24 14:40:47,416 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-24 14:40:49,003 - WeChatRobotLogger - INFO - 退出提示：喵~时间过得真快，主人要离开了，喵酱会一直在这里，期待你的再次召唤~
+2024-10-24 14:40:49,006 - WeChatRobotLogger - INFO - 已保存对话历史记录

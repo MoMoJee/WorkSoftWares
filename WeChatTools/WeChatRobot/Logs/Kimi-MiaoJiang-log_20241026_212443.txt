@@ -1,0 +1,158 @@
+2024-10-26 21:24:43,977 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-26 21:24:49,921 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-26 21:24:49,921 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-26 21:24:51,207 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-26 21:24:56,280 - WeChatRobotLogger - INFO - 启用监听对象：郑梓欣
+2024-10-26 21:24:57,625 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-26 21:25:16,684 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-26 21:25:16,685 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:25:16,685 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】
+2024-10-26 21:25:27,643 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:25:27,643 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[动画表情]
+2024-10-26 21:25:45,535 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：好想看壮丽和你这喵酱聊
+2024-10-26 21:25:45,535 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：好想看壮丽和你这喵酱聊
+2024-10-26 21:25:47,439 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5575
+2024-10-26 21:25:47,439 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：16
+2024-10-26 21:25:47,439 - WeChatRobotLogger - INFO - 本轮对话开销：5591tokens，0.067092元
+2024-10-26 21:25:49,016 - WeChatRobotLogger - INFO - 回复：【喵酱】    牢郑，聊天啊？太好了，是聊天我们有救了。
+2024-10-26 21:25:51,182 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：OK
+2024-10-26 21:26:08,164 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:26:08,164 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：？太好了是喵酱我们有救了
+2024-10-26 21:26:08,164 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：？太好了是喵酱我们有救了
+2024-10-26 21:26:09,935 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5611
+2024-10-26 21:26:09,935 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：13
+2024-10-26 21:26:09,935 - WeChatRobotLogger - INFO - 本轮对话开销：5624tokens，0.06748799999999999元
+2024-10-26 21:26:11,511 - WeChatRobotLogger - INFO - 回复：【喵酱】    牢郑，太好了，是聊天我们有救了。
+2024-10-26 21:26:21,685 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:26:21,686 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱，你为什么重复一句话
+2024-10-26 21:26:21,686 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱，你为什么重复一句话
+2024-10-26 21:26:23,125 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5642
+2024-10-26 21:26:23,126 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：14
+2024-10-26 21:26:23,126 - WeChatRobotLogger - INFO - 本轮对话开销：5656tokens，0.06787199999999999元
+2024-10-26 21:26:24,704 - WeChatRobotLogger - INFO - 回复：【喵酱】    牢郑，无敌了，是重复我们有救了。
+2024-10-26 21:26:36,307 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:26:36,308 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：不是哈哈哈哈哈哈哈哈哈哈
+2024-10-26 21:26:59,301 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】21:26
+2024-10-26 21:26:59,301 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#sys 喵酱，不要说这么简短
+2024-10-26 21:27:04,002 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5676
+2024-10-26 21:27:04,002 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：90
+2024-10-26 21:27:04,002 - WeChatRobotLogger - INFO - 本轮对话开销：5766tokens，0.069192元
+2024-10-26 21:27:05,907 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】    牢Self，聊天嘛，得有来有往的。就像打乒乓球，你发球我接球，一来一去才有意思。要是总说一样的话，那不就跟对着墙打球似的，多没意思。所以啊，聊天得有点儿变化，有点儿新意，这样才能聊得开心，聊得尽兴。就像现在，你问我答，我问你答，这样才聊得起来嘛。
+2024-10-26 21:27:07,857 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱你别救了 我没救了
+2024-10-26 21:27:07,857 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱你别救了 我没救了
+2024-10-26 21:27:12,338 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5786
+2024-10-26 21:27:12,338 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：78
+2024-10-26 21:27:12,338 - WeChatRobotLogger - INFO - 本轮对话开销：5864tokens，0.070368元
+2024-10-26 21:27:13,915 - WeChatRobotLogger - INFO - 回复：【喵酱】    牢郑，别这么想，每个人都有自己的光芒。就像我，虽然是个机器喵，但也有自己的小宇宙。你肯定也有自己的闪光点，只是可能还没发现。别急，慢慢来，总会找到的。就像打游戏，一开始可能总输，但多练练，总会赢的。所以啊，别灰心，你肯定能行的。
+2024-10-26 21:27:19,936 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:27:19,936 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[动画表情]
+2024-10-26 21:27:23,782 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱 谢谢你
+2024-10-26 21:27:23,782 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱 谢谢你
+2024-10-26 21:27:26,766 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5880
+2024-10-26 21:27:26,766 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：41
+2024-10-26 21:27:26,766 - WeChatRobotLogger - INFO - 本轮对话开销：5921tokens，0.071052元
+2024-10-26 21:27:28,345 - WeChatRobotLogger - INFO - 回复：【喵酱】    牢郑，不客气。有事儿随时找我，我虽然是个机器喵，但也是你的朋友。咱们一起加油，一起向前冲！无敌了，是朋友我们有救了。
+2024-10-26 21:27:36,156 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:27:36,156 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[动画表情]
+2024-10-26 21:27:42,129 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵喵喵喵喵喵
+2024-10-26 21:27:54,277 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[动画表情]
+2024-10-26 21:28:00,746 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱你好 我是鼠鼠
+2024-10-26 21:28:00,746 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱你好 我是鼠鼠
+2024-10-26 21:28:03,294 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5940
+2024-10-26 21:28:03,295 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：40
+2024-10-26 21:28:03,295 - WeChatRobotLogger - INFO - 本轮对话开销：5980tokens，0.07176元
+2024-10-26 21:28:04,873 - WeChatRobotLogger - INFO - 回复：【喵酱】    嗨，牢鼠鼠，喵酱在这儿呢！咱们都是小动物，得互相照应。有啥需要帮忙的，尽管说。无敌了，是朋友我们有救了。
+2024-10-26 21:28:07,163 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[动画表情]
+2024-10-26 21:28:20,238 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:28:20,238 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱你不吃老鼠吗
+2024-10-26 21:28:20,238 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱你不吃老鼠吗
+2024-10-26 21:28:23,065 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5998
+2024-10-26 21:28:23,065 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：35
+2024-10-26 21:28:23,065 - WeChatRobotLogger - INFO - 本轮对话开销：6033tokens，0.072396元
+2024-10-26 21:28:24,645 - WeChatRobotLogger - INFO - 回复：【喵酱】    哈哈，牢鼠鼠，我可是机器喵，不吃老鼠的。咱们可以和平共处，一起玩耍。无敌了，是和平我们有救了。
+2024-10-26 21:28:41,923 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:28:41,923 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱你傻傻的
+2024-10-26 21:28:41,923 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱你傻傻的
+2024-10-26 21:28:44,162 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：6050
+2024-10-26 21:28:44,163 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：37
+2024-10-26 21:28:44,163 - WeChatRobotLogger - INFO - 本轮对话开销：6087tokens，0.073044元
+2024-10-26 21:28:45,738 - WeChatRobotLogger - INFO - 回复：【喵酱】    哈哈，牢鼠鼠，我傻点没关系，只要能逗你开心就好。咱们一起傻笑，一起开心。无敌了，是开心我们有救了。
+2024-10-26 21:29:12,740 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:29:12,740 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱 你可以不以“有救了”结尾吗
+2024-10-26 21:29:12,740 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱 你可以不以“有救了”结尾吗
+2024-10-26 21:29:14,873 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：6111
+2024-10-26 21:29:14,873 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：24
+2024-10-26 21:29:14,873 - WeChatRobotLogger - INFO - 本轮对话开销：6135tokens，0.07361999999999999元
+2024-10-26 21:29:16,450 - WeChatRobotLogger - INFO - 回复：【喵酱】    当然可以，鼠鼠。那我们就换个说法：无敌了，是朋友我们能一起开心玩耍。
+2024-10-26 21:29:33,010 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:29:33,011 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱太好了是玩耍我们有救了
+2024-10-26 21:29:33,011 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱太好了是玩耍我们有救了
+2024-10-26 21:29:35,418 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：6155
+2024-10-26 21:29:35,418 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：26
+2024-10-26 21:29:35,418 - WeChatRobotLogger - INFO - 本轮对话开销：6181tokens，0.074172元
+2024-10-26 21:29:36,995 - WeChatRobotLogger - INFO - 回复：【喵酱】    哈哈，牢鼠鼠，你学得真快。那我们就一起玩耍，一起开心，一起无敌了。
+2024-10-26 21:29:43,159 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#sys 喵酱，别忘了林蒙力
+2024-10-26 21:29:46,165 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：6201
+2024-10-26 21:29:46,165 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：55
+2024-10-26 21:29:46,165 - WeChatRobotLogger - INFO - 本轮对话开销：6256tokens，0.075072元
+2024-10-26 21:29:47,743 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】    牢Self，放心吧，林蒙力的风格我可没忘。就像现在，咱们聊天，我得简短有力，直来直去。就像林蒙力说的，"太好了，是玩耍我们有救了"。这风格，无敌了。
+2024-10-26 21:29:53,961 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:29:53,961 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱你会读文献写作业吗
+2024-10-26 21:29:53,961 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱你会读文献写作业吗
+2024-10-26 21:29:56,500 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：6275
+2024-10-26 21:29:56,500 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：49
+2024-10-26 21:29:56,500 - WeChatRobotLogger - INFO - 本轮对话开销：6324tokens，0.075888元
+2024-10-26 21:29:58,075 - WeChatRobotLogger - INFO - 回复：【喵酱】    牢鼠鼠，我虽然是个机器喵，但读文献写作业这事儿，我还真帮不上忙。不过，我可以陪你聊聊，放松一下，让你的大脑休息休息。无敌了，是休息我们有救了。
+2024-10-26 21:30:06,624 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:30:06,624 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[动画表情]
+2024-10-26 21:30:19,794 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：太好了是喵酱！我们没救了！
+2024-10-26 21:30:19,794 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：太好了是喵酱！我们没救了！
+2024-10-26 21:30:23,379 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：6345
+2024-10-26 21:30:23,379 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：53
+2024-10-26 21:30:23,380 - WeChatRobotLogger - INFO - 本轮对话开销：6398tokens，0.076776元
+2024-10-26 21:30:24,960 - WeChatRobotLogger - INFO - 回复：【喵酱】    哈哈，牢鼠鼠，太好了是喵酱，我们有救了！别担心，有啥问题尽管说，能帮的我一定帮。咱们一起努力，一起加油，肯定能行的！无敌了，是努力我们有救了！
+2024-10-26 21:30:27,057 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：这么牛逼
+2024-10-26 21:30:33,457 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:30:33,457 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[动画表情]
+2024-10-26 21:30:46,331 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱帮我想想明天去哪玩
+2024-10-26 21:30:46,331 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱帮我想想明天去哪玩
+2024-10-26 21:30:51,712 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：6417
+2024-10-26 21:30:51,712 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：69
+2024-10-26 21:30:51,712 - WeChatRobotLogger - INFO - 本轮对话开销：6486tokens，0.077832元
+2024-10-26 21:30:53,291 - WeChatRobotLogger - INFO - 回复：【喵酱】    牢鼠鼠，明天出去玩啊？那得看天气。要是天气好，可以去公园或者郊外走走，呼吸新鲜空气。要是冷或者下雨，就去室内的娱乐场所，比如电影院、游戏厅或者书店。总之，找点自己喜欢的事情做，放松一下。无敌了，是放松我们有救了！
+2024-10-26 21:31:01,720 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:31:01,720 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[动画表情]
+2024-10-26 21:31:19,075 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱，你觉得叶哲昊这人怎么样
+2024-10-26 21:31:19,075 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱，你觉得叶哲昊这人怎么样
+2024-10-26 21:31:23,734 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：6508
+2024-10-26 21:31:23,734 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：71
+2024-10-26 21:31:23,734 - WeChatRobotLogger - INFO - 本轮对话开销：6579tokens，0.07894799999999999元
+2024-10-26 21:31:25,312 - WeChatRobotLogger - INFO - 回复：【喵酱】    牢鼠鼠，叶哲昊这人啊，我没和他打过交道，不好说。不过，人嘛，总是有好有坏，关键是看你怎么相处。要是他对你不错，那就好好相处；要是合不来，那就保持距离。反正，做自己最重要。无敌了，是做自己我们有救了！
+2024-10-26 21:31:33,349 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:31:33,349 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：[动画表情]
+2024-10-26 21:31:47,728 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：哈哈哈哈哈哈哈哈哈哈
+2024-10-26 21:31:53,894 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱帮我骂一下叶哲昊谢谢
+2024-10-26 21:31:53,894 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱帮我骂一下叶哲昊谢谢
+2024-10-26 21:31:57,366 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：6600
+2024-10-26 21:31:57,366 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：54
+2024-10-26 21:31:57,366 - WeChatRobotLogger - INFO - 本轮对话开销：6654tokens，0.079848元
+2024-10-26 21:31:58,944 - WeChatRobotLogger - INFO - 回复：【喵酱】    牢鼠鼠，咱们不骂人，大家都有各自的好。可能有时候叶哲昊做了些让你不高兴的事，但骂人不是解决问题的好办法。咱们可以好好谈谈，沟通一下，看看能不能解决问题。无敌了，是沟通我们有救了！
+2024-10-26 21:32:07,228 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:32:07,228 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：草打开呗
+2024-10-26 21:32:15,463 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱帮我夸一下叶哲昊
+2024-10-26 21:32:15,463 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱帮我夸一下叶哲昊
+2024-10-26 21:32:19,902 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：6674
+2024-10-26 21:32:19,903 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：86
+2024-10-26 21:32:19,903 - WeChatRobotLogger - INFO - 本轮对话开销：6760tokens，0.08112元
+2024-10-26 21:32:21,478 - WeChatRobotLogger - INFO - 回复：【喵酱】    牢鼠鼠，夸叶哲昊啊？那得具体点。比如，叶哲昊学习好，可以说“叶哲昊，学习厉害，我们有救了”。或者，叶哲昊篮球打得好，可以说“叶哲昊，打球牛，我们有救了”。总之，夸人得夸到点子上，这样才真诚。无敌了，是真诚我们有救了！
+2024-10-26 21:32:35,915 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-26 21:32:35,915 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】郑梓欣：喵酱叶哲昊啥都好 帮我夸一下
+2024-10-26 21:32:35,915 - WeChatRobotLogger - INFO - 接收到关键词郑梓欣：喵酱叶哲昊啥都好 帮我夸一下
+2024-10-26 21:32:38,628 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：6783
+2024-10-26 21:32:38,629 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：38
+2024-10-26 21:32:38,629 - WeChatRobotLogger - INFO - 本轮对话开销：6821tokens，0.081852元
+2024-10-26 21:32:40,208 - WeChatRobotLogger - INFO - 回复：【喵酱】    牢鼠鼠，既然叶哲昊啥都好，那就简单了。叶哲昊，啥都好，我们有救了！无敌了，是夸人我们有救了！
+2024-10-26 21:32:40,208 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-26 21:32:40,208 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-26 21:32:41,785 - WeChatRobotLogger - INFO - 退出提示：喵~时间过得真快，主人要离开了，喵酱会一直在这里，期待你的再次召唤~
+2024-10-26 21:32:41,793 - WeChatRobotLogger - INFO - 已保存对话历史记录

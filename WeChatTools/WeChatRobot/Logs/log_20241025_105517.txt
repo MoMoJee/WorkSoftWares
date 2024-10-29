@@ -1,0 +1,19 @@
+2024-10-25 10:55:17,340 - WeChatRobotLogger - INFO - 成功连接
+2024-10-25 10:55:20,414 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-25 10:55:20,414 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-25 10:55:21,213 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-25 10:55:21,866 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-25 10:55:47,234 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-25 10:55:47,234 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱启动
+2024-10-25 10:55:48,047 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：61
+2024-10-25 10:55:49,649 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】#喵酱启动中~ 喵~ 现在可以叫我机器喵酱，有什么我可以帮忙的吗？
+2024-10-25 10:55:51,294 - WeChatRobotLogger - INFO - 接收到主人新消息Self：【喵酱】#喵酱启动中~ 喵~ 现在可以叫我机器喵酱，有什么我可以帮忙的吗？
+2024-10-25 10:55:51,798 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：130
+2024-10-25 10:55:53,393 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】嘿嘿，看起来启动成功啦！有什么事情需要我这个可爱的猫娘来帮忙的吗？喵~
+2024-10-25 10:56:16,072 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱几岁啦
+2024-10-25 10:56:16,853 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：172
+2024-10-25 10:56:18,446 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】我虽然是个猫娘，但其实没有真正的年龄哦。你可以随时向我寻求帮助或者聊天，我会一直陪伴着你的！喵~
+2024-10-25 10:56:33,356 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-25 10:56:33,356 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-25 10:56:34,956 - WeChatRobotLogger - INFO - 退出提示：喵喵~主人要休息了吗？喵酱也要好好休息，下次再见要更加精神哦~
+2024-10-25 10:56:34,956 - WeChatRobotLogger - INFO - 已保存对话历史记录

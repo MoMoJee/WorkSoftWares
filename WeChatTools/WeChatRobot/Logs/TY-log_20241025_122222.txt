@@ -1,0 +1,17 @@
+2024-10-25 12:22:23,120 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-4448f56ccf1644b7acad39f5f48e790bModel：qwen-turbo
+2024-10-25 12:22:28,972 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-25 12:22:28,972 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-25 12:22:29,791 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-25 12:22:43,512 - WeChatRobotLogger - INFO - 启用监听对象：五号楼花果山
+2024-10-25 12:22:56,134 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-25 12:23:02,375 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-25 12:23:02,375 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计二班李昊阳：送我这个
+2024-10-25 12:23:05,576 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱在吗
+2024-10-25 12:23:05,962 - WeChatRobotLogger - ERROR - Error code: 400 - {'error': {'code': 'data_inspection_failed', 'param': None, 'message': 'Input data may contain inappropriate content.', 'type': 'data_inspection_failed'}, 'id': 'chatcmpl-c57d3edd-ac98-947a-a904-27381ec59fde'}
+2024-10-25 12:23:07,553 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: {'code': 'data_inspection_failed', 'param': None, 'message': 'Input data may contain inappropriate content.,喵酱也不知道该怎么办了
+2024-10-25 12:23:07,553 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计二班李昊阳：[图片]
+2024-10-25 12:23:18,335 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-25 12:23:18,335 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计二班李昊阳：已经屎了
+2024-10-25 12:23:19,902 - WeChatRobotLogger - INFO - 【Console】请求：#cc 初始化
+2024-10-25 12:23:19,902 - WeChatRobotLogger - INFO - 
+2024-10-25 12:23:19,903 - WeChatRobotLogger - INFO - 【Console】初始化

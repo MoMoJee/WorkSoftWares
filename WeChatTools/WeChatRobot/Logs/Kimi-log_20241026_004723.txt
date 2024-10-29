@@ -1,0 +1,12 @@
+2024-10-26 00:47:23,618 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-26 00:47:32,902 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-26 00:47:32,902 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-26 00:47:33,717 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-26 00:47:34,181 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-26 00:47:39,961 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-26 00:47:39,963 - WeChatRobotLogger - INFO - 【Console】请求：#cc 余额
+2024-10-26 00:47:39,964 - WeChatRobotLogger - INFO - 
+2024-10-26 00:47:39,964 - WeChatRobotLogger - INFO - 【Console】请求余额查询
+2024-10-26 00:47:39,964 - WeChatRobotLogger - INFO - API余额查询连接成功
+2024-10-26 00:47:40,044 - WeChatRobotLogger - INFO - 获取到API响应
+2024-10-26 00:47:40,045 - WeChatRobotLogger - INFO - 余额：39.996967

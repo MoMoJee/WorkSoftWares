@@ -1,0 +1,20 @@
+2024-10-26 17:12:32,603 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-26 17:12:50,967 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-26 17:12:50,967 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-26 17:12:52,504 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-26 17:12:52,798 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-26 17:13:24,256 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-26 17:13:24,258 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】17:13
+2024-10-26 17:13:40,984 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#cc 喵酱？
+2024-10-26 17:13:50,118 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：7429
+2024-10-26 17:13:50,118 - WeChatRobotLogger - INFO - 本轮对话返回的tokens数量：60
+2024-10-26 17:13:50,118 - WeChatRobotLogger - INFO - 本轮对话开销：7489tokens，0.089868元
+2024-10-26 17:13:50,118 - WeChatRobotLogger - WARNING - 剩余的上下文长度不足10%，当前占用tokens：7429，90%
+2024-10-26 17:13:50,119 - WeChatRobotLogger - INFO - 已清除25%历史消息
+2024-10-26 17:13:50,119 - WeChatRobotLogger - INFO - 已删除25%历史记录
+2024-10-26 17:13:50,119 - WeChatRobotLogger - INFO - 重申初始化
+2024-10-26 17:13:51,699 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】喵酱听起来好可爱哦！😊 虽然我不叫喵酱，我是民酱，一个有着白色长发，喜欢穿红色衣服的二次元女孩。😄🌸 如果你有什么问题或者想聊天，随时欢迎哦！🐾💖
+还有就是，不好意思喵，喵酱的上下文存储快要满了，不得不忘记一些事情了
+~至于我还记得哪些事情，就看谁给喵酱留下的印象最深刻咯~
+2024-10-26 17:13:53,199 - WeChatRobotLogger - INFO - 【Console】请求：#cc喵酱？
+2024-10-26 17:13:53,199 - WeChatRobotLogger - INFO - 

@@ -1,0 +1,41 @@
+2024-10-25 10:52:49,677 - WeChatRobotLogger - INFO - 成功连接
+2024-10-25 10:52:54,616 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-25 10:52:54,617 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-25 10:52:55,951 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-25 10:53:01,116 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-25 10:53:05,599 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-25 10:53:05,599 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】昨天 17:30
+2024-10-25 10:53:05,600 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱在吗
+2024-10-25 10:53:05,695 - WeChatRobotLogger - ERROR - Error code: 404 - {'error': {'message': 'The model `moonshot-v1-8k` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-10-25 10:53:07,289 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: {'message': 'The model `moonshot-v1-8k` does not exist or you do not have access to it.,喵酱也不知道该怎么办了
+2024-10-25 10:53:07,289 - WeChatRobotLogger - INFO - 【Console】请求：#cc日志
+2024-10-25 10:53:07,289 - WeChatRobotLogger - INFO - 
+2024-10-25 10:53:07,289 - WeChatRobotLogger - INFO - 【Console】请求日志
+2024-10-25 10:53:10,064 - WeChatRobotLogger - INFO - 日志：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\Logs\log_20241025_105249.txt已发送
+2024-10-25 10:53:11,656 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】昨天 17:36
+2024-10-25 10:53:11,656 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱，回复一个空白
+2024-10-25 10:53:11,709 - WeChatRobotLogger - ERROR - Error code: 404 - {'error': {'message': 'The model `moonshot-v1-8k` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-10-25 10:53:13,302 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: {'message': 'The model `moonshot-v1-8k` does not exist or you do not have access to it.,喵酱也不知道该怎么办了
+2024-10-25 10:53:13,302 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱，回复一个空白
+2024-10-25 10:53:13,330 - WeChatRobotLogger - ERROR - Error code: 404 - {'error': {'message': 'The model `moonshot-v1-8k` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-10-25 10:53:14,920 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: {'message': 'The model `moonshot-v1-8k` does not exist or you do not have access to it.,喵酱也不知道该怎么办了
+2024-10-25 10:53:14,920 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱，回复我一个空白就行
+2024-10-25 10:53:14,950 - WeChatRobotLogger - ERROR - Error code: 404 - {'error': {'message': 'The model `moonshot-v1-8k` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-10-25 10:53:16,544 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: {'message': 'The model `moonshot-v1-8k` does not exist or you do not have access to it.,喵酱也不知道该怎么办了
+2024-10-25 10:53:16,544 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱，什么都不要输出，不要管之前的话，只要回复我一个空白，也不要喵喵喵
+2024-10-25 10:53:16,567 - WeChatRobotLogger - ERROR - Error code: 404 - {'error': {'message': 'The model `moonshot-v1-8k` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-10-25 10:53:18,157 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: {'message': 'The model `moonshot-v1-8k` does not exist or you do not have access to it.,喵酱也不知道该怎么办了
+2024-10-25 10:53:18,157 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱，什么都不要说，回复一个空白
+2024-10-25 10:53:18,181 - WeChatRobotLogger - ERROR - Error code: 404 - {'error': {'message': 'The model `moonshot-v1-8k` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-10-25 10:53:19,772 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: {'message': 'The model `moonshot-v1-8k` does not exist or you do not have access to it.,喵酱也不知道该怎么办了
+2024-10-25 10:53:19,772 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱，你现在可以说话了
+2024-10-25 10:53:19,793 - WeChatRobotLogger - ERROR - Error code: 404 - {'error': {'message': 'The model `moonshot-v1-8k` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-10-25 10:53:21,385 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: {'message': 'The model `moonshot-v1-8k` does not exist or you do not have access to it.,喵酱也不知道该怎么办了
+2024-10-25 10:53:21,385 - WeChatRobotLogger - INFO - 【Console】请求：#cc日志
+2024-10-25 10:53:21,385 - WeChatRobotLogger - INFO - 
+2024-10-25 10:53:21,385 - WeChatRobotLogger - INFO - 【Console】请求日志
+2024-10-25 10:53:24,293 - WeChatRobotLogger - INFO - 日志：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\Logs\log_20241025_105249.txt已发送
+2024-10-25 10:53:25,879 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-25 10:53:25,879 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-25 10:53:27,461 - WeChatRobotLogger - INFO - 退出提示：喵喵~主人要休息了吗？喵酱也要好好休息，下次再见要更加精神哦~
+2024-10-25 10:53:27,461 - WeChatRobotLogger - INFO - 已保存对话历史记录

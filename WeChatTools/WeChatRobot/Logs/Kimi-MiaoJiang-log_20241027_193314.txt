@@ -1,0 +1,39 @@
+2024-10-27 19:33:14,453 - WeChatRobotLogger - INFO - 成功连接.Model：qwen2.5:14b
+2024-10-27 19:33:14,453 - WeChatRobotLogger - INFO - 初始化计费器。当前消费：0
+2024-10-27 19:33:20,558 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-27 19:33:20,558 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-27 19:33:21,342 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-27 19:33:21,799 - WeChatRobotLogger - INFO - 启用监听对象：占思翰
+2024-10-27 19:33:21,987 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-27 19:33:33,734 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-27 19:34:41,518 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-27 19:34:41,518 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：喵酱能帮我分析一下当下名族共同体面对的挑战吗
+2024-10-27 19:34:41,518 - WeChatRobotLogger - INFO - 接收到关键词占思翰：喵酱能帮我分析一下当下名族共同体面对的挑战吗
+2024-10-27 19:34:43,563 - WeChatRobotLogger - ERROR - [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2024-10-27 19:34:45,164 - WeChatRobotLogger - INFO - 回复：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了
+2024-10-27 19:34:46,493 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】
+2024-10-27 19:34:49,182 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：？
+2024-10-27 19:35:49,380 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-27 19:35:49,380 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：这咋了
+2024-10-27 19:35:50,910 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：我问两个问题
+2024-10-27 19:36:01,245 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：不聪明
+2024-10-27 19:36:04,701 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：果然
+2024-10-27 19:37:00,288 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：喵酱能帮我分析一下当下民族共同体面对的挑战吗
+2024-10-27 19:37:00,288 - WeChatRobotLogger - INFO - 接收到关键词占思翰：喵酱能帮我分析一下当下民族共同体面对的挑战吗
+2024-10-27 19:37:02,337 - WeChatRobotLogger - ERROR - [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2024-10-27 19:37:03,927 - WeChatRobotLogger - INFO - 回复：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了
+2024-10-27 19:37:08,135 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：6
+2024-10-27 19:37:25,946 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】19:37
+2024-10-27 19:37:25,946 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱能帮我分析一下当下民族共同体面对的挑战吗
+2024-10-27 19:37:27,997 - WeChatRobotLogger - ERROR - [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2024-10-27 19:37:29,740 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了
+2024-10-27 19:38:21,096 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱能帮我分析一下当下民族共同体面对的挑战吗
+2024-10-27 19:38:23,132 - WeChatRobotLogger - ERROR - [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2024-10-27 19:38:24,755 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: An unknown error occurred.,喵酱也不知道该怎么办了
+2024-10-27 19:38:59,421 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-27 19:38:59,422 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】占思翰：欧克欧克
+2024-10-27 19:39:11,201 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-27 19:39:11,201 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-27 19:39:12,795 - WeChatRobotLogger - INFO - 退出提示：喵喵~主人要休息了吗？喵酱也要好好休息，下次再见要更加精神哦~
+2024-10-27 19:39:12,796 - WeChatRobotLogger - INFO - 对话总消耗：0元
+2024-10-27 19:39:12,797 - WeChatRobotLogger - INFO - 已保存对话历史记录

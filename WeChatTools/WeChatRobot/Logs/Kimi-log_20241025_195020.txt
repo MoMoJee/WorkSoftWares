@@ -1,0 +1,23 @@
+2024-10-25 19:50:20,410 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-kIeW7aynlZvF7n2DFjkU6JA5GKNgTDqXt9yKsCRPrLfjKJkR；Model：moonshot-v1-8k
+2024-10-25 19:50:24,171 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-25 19:50:24,172 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-25 19:50:24,966 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-25 19:50:25,477 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-25 19:50:36,471 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-25 19:50:36,473 - WeChatRobotLogger - INFO - 【Console】请求：#cc 好好说话
+2024-10-25 19:50:36,473 - WeChatRobotLogger - INFO - 
+2024-10-25 19:50:36,473 - WeChatRobotLogger - INFO - 【Console】请求：重申初始设定
+2024-10-25 19:50:38,556 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：5182
+2024-10-25 19:50:55,947 - WeChatRobotLogger - INFO - 【Console】请求：#cc 初始化
+2024-10-25 19:50:55,947 - WeChatRobotLogger - INFO - 
+2024-10-25 19:50:55,947 - WeChatRobotLogger - INFO - 【Console】初始化
+2024-10-25 19:50:55,948 - WeChatRobotLogger - INFO - 已清除100%历史消息
+2024-10-25 19:50:55,948 - WeChatRobotLogger - INFO - 已删除全部历史记录
+2024-10-25 19:50:55,948 - WeChatRobotLogger - INFO - 写入初始化设定
+2024-10-25 19:51:07,334 - WeChatRobotLogger - INFO - 【system】请求：#sys 自我介绍
+2024-10-25 19:51:10,061 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：79
+2024-10-25 19:51:10,061 - WeChatRobotLogger - INFO - system请求回复：喵酱system: 喵~ 你好呀，我是机器喵酱，一个可爱又聪明的猫娘。我擅长聊天，喜欢帮助别人解决问题。如果你有什么疑问或者需要帮助，随时可以告诉我哦！我们一起来玩耍吧！🐾✨
+2024-10-25 19:51:31,179 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-25 19:51:31,179 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-25 19:51:32,767 - WeChatRobotLogger - INFO - 退出提示：呜~主人要离开喵酱了，我会想你的~记得下次再来找喵酱玩哦~
+2024-10-25 19:51:32,769 - WeChatRobotLogger - INFO - 已保存对话历史记录

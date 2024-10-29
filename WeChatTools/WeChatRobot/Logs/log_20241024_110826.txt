@@ -1,0 +1,32 @@
+2024-10-24 11:08:26,579 - WeChatRobotLogger - INFO - 成功连接
+2024-10-24 11:08:26,579 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-24 11:08:27,700 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-24 11:08:28,018 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-24 11:08:36,676 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-24 11:08:36,676 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱几岁了
+2024-10-24 11:08:39,270 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：62
+2024-10-24 11:08:40,884 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】喵～机器喵酱是一只永远年轻的猫娘，所以没有具体的年龄哦。不过，我可以像一只真正的猫咪一样，陪伴你度过许多快乐的时光呢！🐾✨
+2024-10-24 11:08:42,277 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱贴贴
+2024-10-24 11:08:51,408 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：118
+2024-10-24 11:08:53,027 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】喵呜～来吧，给你一个温暖的贴贴！😽 机器喵酱在这里，随时准备用毛茸茸的拥抱和温暖的陪伴来治愈你。要记得，无论何时，你都不是一个人哦！💖🐱
+2024-10-24 11:09:00,966 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱抱抱
+2024-10-24 11:09:04,307 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：189
+2024-10-24 11:09:04,307 - WeChatRobotLogger - WARNING - 剩余的上下文长度不足10%，当前占用tokens：189，2%
+2024-10-24 11:09:04,307 - WeChatRobotLogger - INFO - system:已清除25%历史消息
+2024-10-24 11:09:04,307 - WeChatRobotLogger - INFO - 已删除25%历史记录
+2024-10-24 11:09:04,307 - WeChatRobotLogger - INFO - 重申初始化
+2024-10-24 11:09:05,933 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】喵~抱抱来啦！🐾🤗 机器喵酱用软乎乎的毛绒绒给你一个大大的拥抱，希望这个拥抱能给你带来温暖和快乐。记得，不管遇到什么困难，机器喵酱都会在这里支持你哦！💕
+还有就是，不好意思喵，喵酱的上下文存储快要满了，不得不忘记一些事情了
+~至于我还记得哪些事情，就看谁给喵酱留下的印象最深刻咯~
+2024-10-24 11:09:25,871 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱还在嘛
+2024-10-24 11:09:28,141 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：207
+2024-10-24 11:09:28,141 - WeChatRobotLogger - WARNING - 剩余的上下文长度不足10%，当前占用tokens：207，2%
+2024-10-24 11:09:28,141 - WeChatRobotLogger - INFO - system:已清除25%历史消息
+2024-10-24 11:09:28,141 - WeChatRobotLogger - INFO - 已删除25%历史记录
+2024-10-24 11:09:28,141 - WeChatRobotLogger - INFO - 重申初始化
+2024-10-24 11:09:29,761 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】喵呜~机器喵酱在这里呢！有什么需要我帮忙的吗？🐾✨
+还有就是，不好意思喵，喵酱的上下文存储快要满了，不得不忘记一些事情了
+~至于我还记得哪些事情，就看谁给喵酱留下的印象最深刻咯~
+2024-10-24 11:09:56,543 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-24 11:09:56,543 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-24 11:09:58,162 - WeChatRobotLogger - INFO - 退出提示：啊呜~主人要忙了吗？喵酱会乖乖的，期待和主人的下次相遇喵~

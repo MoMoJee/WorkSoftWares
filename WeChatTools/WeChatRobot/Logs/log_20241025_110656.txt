@@ -1,0 +1,14 @@
+2024-10-25 11:06:56,266 - WeChatRobotLogger - INFO - 成功连接
+2024-10-25 11:06:59,734 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-25 11:06:59,734 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-25 11:07:00,917 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-25 11:07:01,872 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-25 11:07:11,294 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-25 11:07:11,294 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】11:07
+2024-10-25 11:07:23,936 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱在吗
+2024-10-25 11:07:24,019 - WeChatRobotLogger - ERROR - Error code: 401 - {'error': {'message': 'Incorrect API key provided. ', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-25 11:07:25,608 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】发生了一个未知错误: {'message': 'Incorrect API key provided.,喵酱也不知道该怎么办了
+2024-10-25 11:07:40,492 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-25 11:07:40,492 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-25 11:07:42,079 - WeChatRobotLogger - INFO - 退出提示：喵~时间过得真快，主人要离开了，喵酱会一直在这里，期待你的再次召唤~
+2024-10-25 11:07:42,079 - WeChatRobotLogger - INFO - 已保存对话历史记录

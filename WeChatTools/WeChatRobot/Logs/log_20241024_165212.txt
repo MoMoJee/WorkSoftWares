@@ -1,0 +1,8 @@
+2024-10-24 16:52:12,585 - WeChatRobotLogger - INFO - 成功连接
+2024-10-24 16:52:18,597 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-24 16:52:18,597 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-24 16:52:19,417 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-24 16:52:19,593 - WeChatRobotLogger - INFO - 启用监听对象：文件传输助手
+2024-10-24 16:52:29,594 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-24 16:52:39,928 - WeChatRobotLogger - INFO - 【Console】请求：#cc内存清理
+2024-10-24 16:52:39,930 - WeChatRobotLogger - INFO - 

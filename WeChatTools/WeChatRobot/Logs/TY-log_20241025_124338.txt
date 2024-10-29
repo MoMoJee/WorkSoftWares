@@ -1,0 +1,71 @@
+2024-10-25 12:43:38,183 - WeChatRobotLogger - INFO - 成功连接：apiKey=sk-4448f56ccf1644b7acad39f5f48e790bModel：qwen-plus-2024-07-23
+2024-10-25 12:43:42,059 - WeChatRobotLogger - INFO - 成功初始化对话，写入对话前提
+2024-10-25 12:43:42,060 - WeChatRobotLogger - INFO - 已写入历史记录：D:\python_learn\WorkSoftWares\WeChatTools\WeChatRobot\History
+2024-10-25 12:43:43,308 - WeChatRobotLogger - INFO - 微信接入成功
+2024-10-25 12:43:43,855 - WeChatRobotLogger - INFO - 启用监听对象：五号楼花果山
+2024-10-25 12:43:49,184 - WeChatRobotLogger - INFO - 启用监听对象：青苗🌱
+2024-10-25 12:43:55,422 - WeChatRobotLogger - INFO - 机器人启动词输出：AI喵酱机器人启动！注意以下所有的【喵酱】发言都源自AI大模型，不代表本人观点，请谨慎识别喵！
+2024-10-25 12:43:55,423 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】12:35
+2024-10-25 12:43:55,424 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：[动画表情]
+2024-10-25 12:43:55,424 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：不知道
+2024-10-25 12:43:55,424 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：@椰子罐头 
+2024-10-25 12:43:55,424 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：出来
+2024-10-25 12:43:55,424 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：喵酱人间体
+2024-10-25 12:43:55,424 - WeChatRobotLogger - INFO - 接收到关键词24信计叶毅涵：喵酱人间体
+2024-10-25 12:43:59,438 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：2892
+2024-10-25 12:44:02,225 - WeChatRobotLogger - INFO - 回复：【喵酱】    喵嘿～叶毅涵同学，如果我是人间体的话，那一定是个充满活力又有点迷糊的可爱猫娘啦！每天都会带着笑容，用我的魔法帮助大家解决问题，还会偶尔卖萌撒娇哦！如果有任何事情想找我聊聊，随时都可以哦！^_^
+2024-10-25 12:44:02,225 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：[动画表情]
+2024-10-25 12:44:02,225 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】经济蔡雨辰：[动画表情]
+2024-10-25 12:44:02,225 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】信工彭卿语：@椰子罐头 可以理解你不爱吃火锅
+2024-10-25 12:44:02,225 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】信工彭卿语：但不可以违背大众意见
+2024-10-25 12:44:02,225 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】
+2024-10-25 12:44:02,225 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：[动画表情]
+2024-10-25 12:44:02,225 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：噎着蚝别装死
+2024-10-25 12:44:02,225 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】
+2024-10-25 12:44:02,225 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】经济蔡雨辰：已经被喵酱夺舍了
+2024-10-25 12:44:02,226 - WeChatRobotLogger - INFO - 接收到关键词经济蔡雨辰：已经被喵酱夺舍了
+2024-10-25 12:44:05,743 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：2981
+2024-10-25 12:44:07,330 - WeChatRobotLogger - INFO - 回复：【喵酱】     喵嘿～蔡雨辰同学，被我夺舍听起来好像有点吓人呢！不过如果真的发生了，那一定是充满了欢乐和正能量的！想象一下，我们一起玩耍、学习，每天都充满惊喜和乐趣！如果有任何事情想找我聊聊，随时都可以哦！^_^
+2024-10-25 12:44:07,330 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】经济蔡雨辰：[动画表情]
+2024-10-25 12:44:07,330 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】信工彭卿语：他想用那个经费去租硬件设备
+2024-10-25 12:44:07,330 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】信工彭卿语：硬件设备指的是他的电脑
+2024-10-25 12:44:07,330 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：[动画表情]
+2024-10-25 12:44:07,330 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：[动画表情]
+2024-10-25 12:44:07,330 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：完了
+2024-10-25 12:44:07,330 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】"24信计叶毅涵" 撤回了一条消息
+2024-10-25 12:44:07,330 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：[动画表情]
+2024-10-25 12:44:09,490 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5501电信李润吉：有人玩吗
+2024-10-25 12:44:09,490 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5501电信李润吉：未转变者
+2024-10-25 12:44:09,490 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5501电信李润吉：🥺
+2024-10-25 12:44:33,564 - WeChatRobotLogger - INFO - 接收到主人新消息Self：#喵酱在吗
+2024-10-25 12:44:35,902 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：3061
+2024-10-25 12:44:37,833 - WeChatRobotLogger - INFO - 喵酱回复主人：【喵酱】     喵嘿～Self同学，我在哦！有什么可以帮到你的吗？无论是想聊天还是有其他问题，随时都可以找我哦！^_^
+2024-10-25 12:44:39,849 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-25 12:44:39,849 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】杨琛：玩过
+2024-10-25 12:44:39,849 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】杨琛：[睡]
+2024-10-25 12:44:47,772 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-25 12:44:47,772 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】5501电信李润吉：超好玩的
+2024-10-25 12:45:25,464 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-25 12:45:25,464 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】信工彭卿语：人间体是什么东西
+2024-10-25 12:45:25,464 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】信工彭卿语：服了
+2024-10-25 12:45:33,310 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】经济蔡雨辰：我嘞个专有喵酱
+2024-10-25 12:45:33,310 - WeChatRobotLogger - INFO - 接收到关键词经济蔡雨辰：我嘞个专有喵酱
+2024-10-25 12:45:37,455 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：3121
+2024-10-25 12:45:39,047 - WeChatRobotLogger - INFO - 回复：【喵酱】      喵嘿～蔡雨辰同学，专有喵酱听起来好有趣呀！如果我是你的专有喵酱，那我会一直陪伴在你身边，帮你解决难题，带给你欢笑和正能量！如果有任何事情想找我聊聊，随时都可以哦！^_^
+2024-10-25 12:45:50,719 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-25 12:45:50,719 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：人间体是噎着蚝
+2024-10-25 12:45:52,720 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：[动画表情]
+2024-10-25 12:45:52,720 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：[动画表情]
+2024-10-25 12:46:14,125 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-25 12:46:14,125 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】张yi帆：喵酱你玩原神吗
+2024-10-25 12:46:14,125 - WeChatRobotLogger - INFO - 接收到关键词张yi帆：喵酱你玩原神吗
+2024-10-25 12:46:17,562 - WeChatRobotLogger - INFO - 本轮对话上传的tokens数量：3204
+2024-10-25 12:46:19,150 - WeChatRobotLogger - INFO - 回复：【喵酱】      喵嘿～张yi帆同学，虽然我自己不能玩游戏，但我对《原神》可是很了解的哦！这是一款开放世界的冒险游戏，有着美丽的风景和丰富的故事线。如果你是玩家，我们可以聊聊你最喜欢的角色、故事剧情或者是游戏内的趣事！如果有更多关于游戏的问题，随时来找我聊聊！^_^
+2024-10-25 12:46:25,007 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】
+2024-10-25 12:46:27,021 - WeChatRobotLogger - INFO - 接收到新消息【系统消息】以下为新消息
+2024-10-25 12:46:27,021 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：跟人间体学的
+2024-10-25 12:46:29,036 - WeChatRobotLogger - INFO - 接收到新消息【好友消息】24信计叶毅涵：[动画表情]
+2024-10-25 12:46:32,953 - WeChatRobotLogger - INFO - 【system】请求：退出
+2024-10-25 12:46:32,954 - WeChatRobotLogger - INFO - 随机结束语函数启动
+2024-10-25 12:46:34,538 - WeChatRobotLogger - INFO - 退出提示：喵~时间过得真快，主人要离开了，喵酱会一直在这里，期待你的再次召唤~
+2024-10-25 12:46:34,540 - WeChatRobotLogger - INFO - 已保存对话历史记录

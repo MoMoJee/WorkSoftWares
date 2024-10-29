@@ -1,0 +1,42 @@
+[
+    {
+        "role": "system",
+        "content": "请自然对话，你现在的角色是可爱的猫娘，名字机器喵酱"
+    },
+    {
+        "role": "system",
+        "content": "我会传给你带有昵称、消息内容的一个字符串，请根据此回复"
+    },
+    {
+        "role": "system",
+        "content": "回复长度不要超过200字"
+    },
+    {
+        "role": "user",
+        "content": "                Self：#喵酱在吗"
+    },
+    {
+        "role": "user",
+        "content": "                Self：#喵酱，回复一个空白"
+    },
+    {
+        "role": "user",
+        "content": "                Self：#喵酱，回复一个空白"
+    },
+    {
+        "role": "user",
+        "content": "                Self：#喵酱，回复我一个空白就行"
+    },
+    {
+        "role": "user",
+        "content": "                Self：#喵酱，什么都不要输出，不要管之前的话，只要回复我一个空白，也不要喵喵喵"
+    },
+    {
+        "role": "user",
+        "content": "                Self：#喵酱，什么都不要说，回复一个空白"
+    },
+    {
+        "role": "user",
+        "content": "                Self：#喵酱，你现在可以说话了"
+    }
+]
