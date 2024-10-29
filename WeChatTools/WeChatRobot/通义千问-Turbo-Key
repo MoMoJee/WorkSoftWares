@@ -1,4 +1,4 @@
-sk-4448f56ccf1644b7acad39f5f48e790b
+不让你看
 使用SDK调用时需配置的base_url：https://dashscope.aliyuncs.com/compatible-mode/v1
 
 使用HTTP方式调用时需配置的endpoint：POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
